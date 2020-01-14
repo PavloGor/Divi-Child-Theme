@@ -3,14 +3,14 @@ msgstr ""
 "Project-Id-Version: Divi 1.0\n"
 "Report-Msgid-Bugs-To: https://wordpress.org/support/theme/style\n"
 "POT-Creation-Date: 2017-05-18 15:55:34+00:00\n"
-"PO-Revision-Date: 2017-05-18 19:14+0300\n"
+"PO-Revision-Date: 2020-01-14 21:11+0200\n"
 "Last-Translator: \n"
 "Language-Team: Elegant Themes\n"
 "Language: uk\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Poedit 1.8.6\n"
+"X-Generator: Poedit 2.2.4\n"
 "X-Poedit-KeywordsList: __;_e;_x:1,2c;_ex:1,2c;_n:1,2;_nx:1,2,4c;_n_noop:1,2;"
 "_nx_noop:1,2,3c;esc_attr__;esc_html__;esc_attr_e;esc_html_e;esc_attr_x:1,2c;"
 "esc_html_x:1,2c\n"
@@ -154,7 +154,7 @@ msgstr "Ні"
 
 #: epanel/core_functions.php:533
 msgid "Enabled"
-msgstr "Активувати"
+msgstr "Ввiмкнути"
 
 #: epanel/core_functions.php:535
 msgid "Disabled"
@@ -262,27 +262,27 @@ msgstr "Натисніть тут, щоб дізнатись більше"
 
 #: epanel/shortcodes/shortcodes.php:732
 msgid "Join Now"
-msgstr "Приєднатися Зараз"
+msgstr "Приєднатися зараз"
 
 #: epanel/shortcodes/shortcodes.php:967
 msgid "Add ET Learn more block"
-msgstr "Додати Блок Перемикання"
+msgstr "Додати ET Докладніше блок"
 
 #: epanel/shortcodes/shortcodes.php:968
 msgid "Add ET Box"
-msgstr "Додати Вікно"
+msgstr "Додати ET Box"
 
 #: epanel/shortcodes/shortcodes.php:969
 msgid "Add ET Button"
-msgstr "Додати Кнопку"
+msgstr "Додати ET Кнопку"
 
 #: epanel/shortcodes/shortcodes.php:970
 msgid "Add ET Tabs"
-msgstr "Додати Вкладки"
+msgstr "Додати ET вкладки"
 
 #: epanel/shortcodes/shortcodes.php:971
 msgid "Add Author Bio"
-msgstr "Додати Біографію Автора"
+msgstr "Додати автора біо"
 
 #: epanel/shortcodes/shortcodes.php:972
 msgid "Shortcodes"
@@ -357,7 +357,7 @@ msgstr "Текст посилання"
 
 #: epanel/shortcodes/shortcodes.php:1041
 msgid "Icon"
-msgstr "Значок"
+msgstr "Іконка"
 
 #: epanel/shortcodes/shortcodes.php:1043
 msgid "Used for icon button type"
@@ -398,13 +398,13 @@ msgstr ""
 
 #: epanel/shortcodes/shortcodes.php:1079
 msgid "Auto Speed"
-msgstr "Швидкість автоматичного перемикання"
+msgstr "Автоматична швидкість"
 
 #: epanel/shortcodes/shortcodes.php:1081
 msgid "Automattic slider speed (works only if Auto is set to yes)"
 msgstr ""
-"Швидкість автоматичного перемикання повзунка (працює, коли активовано "
-"функцію автоматичне)"
+"Автоматична швидкість слайдера (працює тільки якщо Auto встановлено на "
+"значення так)"
 
 #: epanel/shortcodes/shortcodes.php:1085
 msgid "Tab Text"
@@ -452,7 +452,7 @@ msgstr "Додаткове меню"
 
 #: functions.php:38 functions.php:715
 msgid "Footer Menu"
-msgstr "Меню нижнього колонтитулу"
+msgstr "Меню підвалу"
 
 #: functions.php:90
 msgid ""
@@ -503,7 +503,7 @@ msgstr "Ліва бокова панель"
 
 #: functions.php:317 options_divi.php:105
 msgid "Full Width"
-msgstr "Відкрити на повну ширину"
+msgstr "Повна ширина"
 
 #: functions.php:321
 msgid "Light"
@@ -519,19 +519,19 @@ msgstr "Макет сторінки"
 
 #: functions.php:349
 msgid "Dot Navigation"
-msgstr "Навігація по Точкам"
+msgstr "Точка навігації"
 
 #: functions.php:352 functions.php:361
 msgid "Off"
-msgstr "Вимкнути"
+msgstr "Викл"
 
 #: functions.php:353 functions.php:362
 msgid "On"
-msgstr "Увімкнути"
+msgstr "Вкл"
 
 #: functions.php:357
 msgid "Hide Nav Before Scroll"
-msgstr "Приховувати Навігацію Перед Прокруткою"
+msgstr "Приховувати навігацію перед прокруткою"
 
 #: functions.php:360 functions.php:5737 includes/functions/choices.php:24
 #: includes/functions/choices.php:40
@@ -540,7 +540,7 @@ msgstr "За замовчуванням"
 
 #: functions.php:368
 msgid "Post Title"
-msgstr "Заголовок Публікації"
+msgstr "Заголовок запису"
 
 #: functions.php:371 functions.php:406
 msgid "Show"
@@ -556,7 +556,7 @@ msgstr "Додати колір фону"
 
 #: functions.php:382 functions.php:5776
 msgid "Hex Value"
-msgstr "Номер кольору"
+msgstr "Hex значення"
 
 #: functions.php:386 functions.php:2051 functions.php:2078 functions.php:2205
 #: functions.php:2727 functions.php:2855 functions.php:3059
@@ -569,7 +569,7 @@ msgstr "Навігація проекту"
 
 #: functions.php:550 functions.php:562 functions.php:8553
 msgid "you don't have sufficient permissions to access this page"
-msgstr "Ви не маєте достатньо прав для доступу до цієї сторінки"
+msgstr "у вас немає достатніх дозволів для доступу до цієї сторінки"
 
 #: functions.php:615 options_divi.php:318 options_divi.php:466
 msgid "General Settings"
@@ -577,7 +577,7 @@ msgstr "Загальні налаштування"
 
 #: functions.php:620
 msgid "Site Identity"
-msgstr "ідентичність сайту"
+msgstr "Ідентифікатор сайту"
 
 #: functions.php:625
 msgid "Layout Settings"
@@ -589,7 +589,7 @@ msgstr "Оформлення"
 
 #: functions.php:635
 msgid "Mobile Styles"
-msgstr "Мобільні Стилі"
+msgstr "Мобільні стилі"
 
 #: functions.php:640
 msgid "Tablet"
@@ -637,7 +637,7 @@ msgstr "Елементи Шапки"
 
 #: functions.php:695
 msgid "Footer"
-msgstr "Футер"
+msgstr "Підвал"
 
 #: functions.php:705
 msgid "Widgets"
@@ -645,7 +645,7 @@ msgstr "Віджети"
 
 #: functions.php:710
 msgid "Footer Elements"
-msgstr "Елементи Футеру"
+msgstr "Елементи підвалу"
 
 #: functions.php:720
 msgid "Bottom Bar"
@@ -715,11 +715,11 @@ msgstr "Відстань між Літерами в Шапці"
 #: functions.php:3593 functions.php:3708 functions.php:3771 functions.php:3850
 #: functions.php:3914 functions.php:4705 functions.php:5401 functions.php:5507
 msgid "Header Font Style"
-msgstr "Стиль Шрифту в Шапці"
+msgstr "Шрифт заголовків Стиль"
 
 #: functions.php:911
 msgid "Enable Boxed Layout"
-msgstr "Увімкнути Макет Обрамлення"
+msgstr "Ввiмкнути Макет Обрамлення"
 
 #: functions.php:925
 msgid "Website Content Width"
@@ -768,7 +768,7 @@ msgstr "Розташування Фону"
 
 #: functions.php:1154 includes/functions/choices.php:106
 msgid "Left"
-msgstr "З Лівого Боку"
+msgstr "Ліворуч"
 
 #: functions.php:1155
 msgid "Center"
@@ -776,31 +776,31 @@ msgstr "По Центру"
 
 #: functions.php:1156 includes/functions/choices.php:105
 msgid "Right"
-msgstr "З Правого Боку"
+msgstr "Зправа"
 
 #: functions.php:1189 functions.php:1227 functions.php:1246
 msgid "Body Text Size"
-msgstr "Розмір Тексту Основної Частини"
+msgstr "Розмір тексту Body"
 
 #: functions.php:1208
 msgid "Body Line Height"
-msgstr "Інтервал між Рядками Основної Частини"
+msgstr "Висота лінії Body"
 
 #: functions.php:1376
 msgid "Header Font"
-msgstr "Шрифт верхнього колонтитула"
+msgstr "Шрифт заголовків"
 
 #: functions.php:1392
 msgid "Body Font"
-msgstr "Шрифт основного тексту"
+msgstr "Шрифт Body"
 
 #: functions.php:1409
 msgid "Body Link Color"
-msgstr "Колір силок в Основній Частині"
+msgstr "Колір посилання Body"
 
 #: functions.php:1423
 msgid "Body Text Color"
-msgstr "Колір Тексту Основної Частини"
+msgstr "Колір тексту Body"
 
 #: functions.php:1437
 msgid "Header Text Color"
@@ -816,7 +816,7 @@ msgstr "Стиль верхнього колонтитула"
 
 #: functions.php:1495
 msgid "Enable Vertical Navigation"
-msgstr "Увімкнути Вертикальну Навігацію"
+msgstr "Ввiмкнути Вертикальну Навігацію"
 
 #: functions.php:1509
 msgid "Vertical Menu Orientation"
@@ -824,7 +824,7 @@ msgstr "Вертикальна орієнтація меню"
 
 #: functions.php:1525
 msgid "Hide Navigation Until Scroll"
-msgstr "Сховати Навігацію До Прокручування"
+msgstr "Сховати навігацію до прокручування"
 
 #: functions.php:1540 functions.php:2429
 msgid "Show Social Icons"
@@ -870,7 +870,7 @@ msgstr "Колір посилання меню"
 
 #: functions.php:1757 functions.php:2092
 msgid "Active Link Color"
-msgstr "Колір Активної Силки"
+msgstr "Колір активного посилання"
 
 #: functions.php:1771
 msgid "Top Bar Text Color"
@@ -890,7 +890,7 @@ msgstr "На Повну Ширину"
 
 #: functions.php:1825 functions.php:2064 functions.php:2280
 msgid "Hide Logo Image"
-msgstr "Приховати Зображення Лого"
+msgstr "Сховати зображення логотипа"
 
 #: functions.php:1839
 msgid "Menu Height"
@@ -946,7 +946,7 @@ msgstr "Вторинний Меню Колір посилання"
 
 #: functions.php:2388
 msgid "Active Primary Menu Link Color"
-msgstr "Активний Первинна Меню Колір посилання"
+msgstr "Активне колір посилання меню"
 
 #: functions.php:2402
 msgid "Phone Number"
@@ -954,7 +954,7 @@ msgstr "Номер телефону"
 
 #: functions.php:2415
 msgid "Email"
-msgstr "Електронна адреса"
+msgstr "Email"
 
 #: functions.php:2443
 msgid "Column Layout"
@@ -962,19 +962,19 @@ msgstr "Макет Колонки"
 
 #: functions.php:2459
 msgid "Footer Background Color"
-msgstr "Колір фону нижнього колонтитула"
+msgstr "Колір фона підвалу"
 
 #: functions.php:2507
 msgid "Body/Link Text Size"
-msgstr "Розмір Тексту Основної Частини"
+msgstr "Розмір тексту для Body/посилання"
 
 #: functions.php:2526
 msgid "Body/Link Line Height"
-msgstr "Інтервал між Рядками Основної Частини"
+msgstr "Висота рядка для Body/посилання"
 
 #: functions.php:2545
 msgid "Body Font Style"
-msgstr "Стиль Шрифту Основної Частини"
+msgstr "Стиль шрифту Body"
 
 #: functions.php:2560
 msgid "Widget Text Color"
@@ -994,15 +994,15 @@ msgstr "Колір Точок Віджетів"
 
 #: functions.php:2617
 msgid "Footer Menu Background Color"
-msgstr "Фоновий Колір Меню Футеру"
+msgstr "Фоновий Колір Меню підвалу"
 
 #: functions.php:2631
 msgid "Footer Menu Text Color"
-msgstr "Колір Тексту Меню Футеру"
+msgstr "Колір Тексту Меню підвалу"
 
 #: functions.php:2645
 msgid "Footer Menu Active Link Color"
-msgstr "Колір Активних Силок Меню Футеру"
+msgstr "Колір Активних Силок Меню підвалу"
 
 #: functions.php:2693 functions.php:2756
 msgid "Font Size"
@@ -1018,7 +1018,7 @@ msgstr "Колір Значків Соціальних Мереж"
 
 #: functions.php:2807
 msgid "Disable Footer Credits"
-msgstr "Вимкнути Footer Credits"
+msgstr "Вимкнути титри підвалу"
 
 #: functions.php:2821
 msgid "Edit Footer Credits"
@@ -1058,7 +1058,7 @@ msgstr "Колір Іконки"
 
 #: functions.php:3029
 msgid "Icon Placement"
-msgstr "Розташування Значка"
+msgstr "Розташування Іконки"
 
 #: functions.php:3044
 msgid "Only Show Icon on Hover"
@@ -1074,7 +1074,7 @@ msgstr "Зображення"
 
 #: functions.php:3139
 msgid "Image Module Settings"
-msgstr "Налаштування Модуля Зображень"
+msgstr "Параметри модуля зображення"
 
 #: functions.php:3150
 msgid "Animation"
@@ -1100,12 +1100,12 @@ msgstr "Коліп Оверлею при Наведенні"
 #: functions.php:3204 functions.php:3310 functions.php:3987 functions.php:4096
 #: functions.php:4365 functions.php:4444 functions.php:4486 functions.php:4586
 msgid "Title Font Size"
-msgstr "Розмір Шрифту Заголовку"
+msgstr "Розмір шрифту заголовка"
 
 #: functions.php:3224 functions.php:3330 functions.php:4007 functions.php:4116
 #: functions.php:4385 functions.php:4464 functions.php:5092 functions.php:5171
 msgid "Title Font Style"
-msgstr "Стиль Шрифту Заголовку"
+msgstr "Стиль шрифту заголовка"
 
 #: functions.php:3240 functions.php:4023 functions.php:4132
 msgid "Caption Font Size"
@@ -1123,7 +1123,7 @@ msgstr "Рекламка"
 #: functions.php:3751 functions.php:3830 functions.php:3894 functions.php:4685
 #: functions.php:5381 functions.php:5487
 msgid "Header Font Size"
-msgstr "Розмір Шрифту Шапки"
+msgstr "Шрифт заголовків Розмір"
 
 #: functions.php:3297
 msgid "Tabs"
@@ -1159,7 +1159,7 @@ msgstr "Стиль Шрифту Імені"
 
 #: functions.php:3490
 msgid "Details Font Style"
-msgstr "Стиль Шрифту Деталей"
+msgstr "Відомості про стиль шрифту"
 
 #: functions.php:3506
 msgid "Portrait Border Radius"
@@ -1195,7 +1195,7 @@ msgstr "Аудіо"
 
 #: functions.php:3817
 msgid "Email Optin"
-msgstr "E-mail Оптина"
+msgstr "Email OptIn"
 
 #: functions.php:3944
 msgid "Portfolio"
@@ -1219,11 +1219,11 @@ msgstr "Лічильник Рядків"
 
 #: functions.php:4211
 msgid "Label Font Size"
-msgstr "Розмір Шрифту Ярликів"
+msgstr "Розмір шрифту етикетки"
 
 #: functions.php:4231
 msgid "Label Font Style"
-msgstr "Стиль Шрифту Ярликів"
+msgstr "Стиль шрифту етикетки"
 
 #: functions.php:4247
 msgid "Percent Font Size"
@@ -1239,11 +1239,11 @@ msgstr "Відступ Панелі"
 
 #: functions.php:4303
 msgid "Bar Border Radius"
-msgstr "Радіус Кордонів Панелі"
+msgstr "Радіус межі смужки"
 
 #: functions.php:4317
 msgid "Circle Counter"
-msgstr "Круглий Лічильник"
+msgstr "Круглий лічильник"
 
 #: functions.php:4329 functions.php:4408
 msgid "Number Font Size"
@@ -1359,7 +1359,7 @@ msgstr "Розмір Значка Соціальної Мережі"
 
 #: functions.php:5072 functions.php:5151
 msgid "Post Title Font Size"
-msgstr "Розмір Шрифту Заголовка Публікації"
+msgstr "Розмір Шрифту Заголовка запису"
 
 #: functions.php:5108 functions.php:5187
 msgid "Meta Font Size"
@@ -1367,7 +1367,7 @@ msgstr "Розмір Шрифту Метаданих"
 
 #: functions.php:5138
 msgid "Blog Grid"
-msgstr "Блог Сітка"
+msgstr "Блог сітка"
 
 #: functions.php:5217
 msgid "Shop"
@@ -1415,7 +1415,7 @@ msgstr "Розмір Значка & Шрифту"
 
 #: functions.php:5454
 msgid "Fullwidth Slider"
-msgstr "Полношірінний слайдер"
+msgstr "Слайдер На Всю Ширину"
 
 #: functions.php:7977
 msgid "0 comments"
@@ -1455,7 +1455,7 @@ msgstr "Модуль Налаштування"
 
 #: functions.php:8484
 msgid "Role Editor"
-msgstr "роль редактора"
+msgstr "Роль Редактор"
 
 #: functions.php:8487
 msgid "Divi Library"
@@ -1483,7 +1483,7 @@ msgstr "Жирний"
 
 #: includes/functions/choices.php:10
 msgid "Italic"
-msgstr "Курсивний"
+msgstr "Курсив"
 
 #: includes/functions/choices.php:11
 msgid "Uppercase"
@@ -1539,7 +1539,7 @@ msgstr "Слайд"
 
 #: includes/functions/choices.php:59
 msgid "Flip"
-msgstr "Рухатися ривками"
+msgstr "Перевернути"
 
 #: includes/functions/choices.php:71 includes/functions/choices.php:72
 #: includes/functions/choices.php:73 includes/functions/choices.php:75
@@ -1551,11 +1551,11 @@ msgstr "%1$s Колонки"
 
 #: includes/functions/choices.php:74
 msgid "1 Column"
-msgstr "1 Колонка"
+msgstr "1 Стовпець"
 
 #: includes/functions/choices.php:118
 msgid "Left to Right"
-msgstr "Зліва Направо"
+msgstr "Зліва направо"
 
 #: includes/functions/choices.php:119
 msgid "Right to Left"
@@ -1575,7 +1575,7 @@ msgstr "Поступова Поява"
 
 #: includes/functions/choices.php:123
 msgid "No Animation"
-msgstr "Без Анімації"
+msgstr "Без анімації"
 
 #: includes/functions/choices.php:135
 msgid "Solid"
@@ -1595,7 +1595,7 @@ msgstr "Подвійний"
 
 #: includes/functions/choices.php:139
 msgid "Groove"
-msgstr "Виділення"
+msgstr "Опуклість"
 
 #: includes/functions/choices.php:140
 msgid "Ridge"
@@ -1603,7 +1603,7 @@ msgstr "Межа"
 
 #: includes/functions/choices.php:141
 msgid "Inset"
-msgstr "Внутрішня Межа"
+msgstr "Всередині"
 
 #: includes/functions/choices.php:142
 msgid "Outset"
@@ -1631,11 +1631,11 @@ msgstr "Плитка"
 
 #: includes/functions/choices.php:170
 msgid "Tile Horizontally"
-msgstr "Горизонтальна Плитка"
+msgstr "Плітка горизонтально"
 
 #: includes/functions/choices.php:171
 msgid "Tile Vertically"
-msgstr "Вертикальна Плитка"
+msgstr "Плітка вертикально"
 
 #: includes/functions/choices.php:183
 msgid "Scroll"
@@ -1652,7 +1652,7 @@ msgstr "Читати Divi документацію"
 #: includes/functions/sidebars.php:13 includes/functions/sidebars.php:22
 #: includes/functions/sidebars.php:31 includes/functions/sidebars.php:40
 msgid "Footer Area"
-msgstr "Зона Футера"
+msgstr "Область підвалу"
 
 #: includes/functions/tutorials.php:1
 msgid "Watch video tutorials"
@@ -1696,7 +1696,7 @@ msgstr "RSS"
 
 #: includes/widgets/widget-about.php:4
 msgid "Displays About Me Information"
-msgstr "Показує Інформацію Про Мене"
+msgstr "Відображає інформацію про мене"
 
 #: includes/widgets/widget-about.php:6
 msgid "ET About Me Widget"
@@ -1704,7 +1704,7 @@ msgstr "Віджет Про Мене"
 
 #: includes/widgets/widget-about.php:12 includes/widgets/widget-about.php:41
 msgid "About Me"
-msgstr "Про Мене"
+msgstr "Про мене"
 
 #: includes/widgets/widget-about.php:48 includes/widgets/widget-ads.php:172
 #: includes/widgets/widget-ads.php:184 includes/widgets/widget-ads.php:192
@@ -1770,7 +1770,7 @@ msgstr "Url"
 #: includes/widgets/widget-ads.php:218 includes/widgets/widget-ads.php:226
 #: includes/widgets/widget-ads.php:234 includes/widgets/widget-ads.php:242
 msgid "Alt"
-msgstr "Альтернативний текст"
+msgstr "Alt"
 
 #: includes/widgets/widget-ads.php:243
 msgid ""
@@ -1844,14 +1844,14 @@ msgstr ""
 
 #: options_divi.php:68
 msgid "Enable Divi Gallery"
-msgstr "Активувати галерею Divi"
+msgstr "Ввiмкнути Divi галерею"
 
 #: options_divi.php:72
 msgid ""
 "Enable this if you want to replace the WordPress default gallery with the "
 "Divi-style gallery."
 msgstr ""
-"Активуйте, якщо хочете замінити галерею за замовчуванням WordPress на "
+"Ввiмкнути, якщо хочете замінити галерею за замовчуванням WordPress на "
 "галерею в стилі Divi."
 
 #: options_divi.php:75
@@ -1885,7 +1885,7 @@ msgstr ""
 
 #: options_divi.php:92
 msgid "Blog Style Mode"
-msgstr "Формат блогу"
+msgstr "Режим стилю блогу"
 
 #: options_divi.php:96
 msgid ""
@@ -2121,11 +2121,11 @@ msgstr "Активувати Google Fonts для інших мов, окрім �
 
 #: options_divi.php:256
 msgid "Back To Top Button"
-msgstr "Кнопка Вверх"
+msgstr "Повернутися Вгору кнопка"
 
 #: options_divi.php:260
 msgid "Enable this option to display Back To Top Button while scrolling"
-msgstr "Увімкнути опцію відображення кнопки Вверх під час прокручування"
+msgstr "Ввiмкнути опцію відображення кнопки Вверх під час прокручування"
 
 #: options_divi.php:263
 msgid "Smooth Scrolling"
@@ -2133,11 +2133,11 @@ msgstr "Плавне прокручування"
 
 #: options_divi.php:267
 msgid "Enable this option to get the smooth scrolling effect with mouse wheel"
-msgstr "Увімкнути опцію плавного прокручування за допомогою коліща мишки"
+msgstr "Ввiмкнути опцію плавного прокручування за допомогою коліща мишки"
 
 #: options_divi.php:270
 msgid "Disable Translations"
-msgstr "Вимкнути переклади"
+msgstr "Вимкнути переклад"
 
 #: options_divi.php:274
 msgid ""
@@ -2267,7 +2267,7 @@ msgstr ""
 
 #: options_divi.php:391
 msgid "Hide empty categories"
-msgstr "Сховати пусті рубрики"
+msgstr "Сховати порожні категорії"
 
 #: options_divi.php:395
 msgid ""
@@ -2277,7 +2277,7 @@ msgid ""
 msgstr ""
 "Якщо Ви хочете, щоб на Вашій навігаційні панелі були відображені рубрики, в "
 "яких відсутні пости, вимкніть цю опцію. За замовчуванням пусті рубрики не "
-"видно."
+"видно"
 
 #: options_divi.php:406
 msgid "Sort Categories Links by Name/ID/Slug/Count/Term Group"
@@ -2389,7 +2389,7 @@ msgid ""
 msgstr ""
 "За замовчуванням мініатюри розміщуються на початку Вашого посту на сторінках "
 "з одним постом. Якщо Ви бажаєте видалити це первинне зображення-мініатюру, "
-"щоб уникнути повторень, просто вимкніть цю функцію."
+"щоб уникнути повторень, просто вимкніть цю функцію. "
 
 #: options_divi.php:502
 msgid "Place Thumbs on Pages"
@@ -2403,7 +2403,7 @@ msgid ""
 msgstr ""
 "За замовчуванням мініатюри не відображаються для сторінок (вони "
 "використовуються лише для публікацій). Однак, за бажанням ви можете "
-"використати мініатюри і для сторінок! Просто ввімкніть цю опцію."
+"використати мініатюри і для сторінок! Просто ввімкніть цю опцію. "
 
 #: options_divi.php:509
 msgid "Show comments on pages"
@@ -2457,7 +2457,7 @@ msgstr "Індексна сторінка SEO"
 
 #: options_divi.php:568
 msgid " Enable custom title "
-msgstr "Створити довільний заголовок "
+msgstr " Створити довільний заголовок "
 
 #: options_divi.php:572
 msgid ""
@@ -2474,7 +2474,7 @@ msgstr ""
 
 #: options_divi.php:575
 msgid " Enable meta description"
-msgstr "Увімкнути мета-тег опису"
+msgstr " Ввiмкнути мета-тег опису"
 
 #: options_divi.php:579
 msgid ""
@@ -2490,7 +2490,7 @@ msgstr ""
 
 #: options_divi.php:582
 msgid " Enable meta keywords"
-msgstr "Активувати мета-тег ключових слів"
+msgstr " Активувати мета-тег ключових слів"
 
 #: options_divi.php:586
 msgid ""
@@ -2508,7 +2508,7 @@ msgstr ""
 
 #: options_divi.php:589 options_divi.php:716
 msgid " Enable canonical URL's"
-msgstr "Активувати канонічні URL's"
+msgstr " Активувати канонічні URL's"
 
 #: options_divi.php:593 options_divi.php:667 options_divi.php:720
 msgid ""
@@ -2602,12 +2602,11 @@ msgid ""
 "when using autogenerated post titles. Common values are | or -"
 msgstr ""
 "Тут Ви можете змінити знак, що відокремлює заголовок блогу від назву посту "
-"при автоматичному створенні заголовків постів. Зазвичай використовується | "
-"or –"
+"при автоматичному створенні заголовків постів. Зазвичай are | or -"
 
 #: options_divi.php:642
 msgid "Enable custom titles"
-msgstr "Увімкнути функцію довільних заголовків"
+msgstr "Ввiмкнути функцію довільних заголовків"
 
 #: options_divi.php:646
 msgid ""
@@ -2626,7 +2625,7 @@ msgstr ""
 
 #: options_divi.php:649
 msgid "Enable custom description"
-msgstr "Активувати функцію довільного опису"
+msgstr "Ввiмкнути користувацький опис"
 
 #: options_divi.php:653
 msgid ""
@@ -2643,7 +2642,7 @@ msgstr ""
 
 #: options_divi.php:656
 msgid "Enable custom keywords"
-msgstr "Активувати функцію довільних ключових слів"
+msgstr "Ввiмкнути користувацькі ключові слова"
 
 #: options_divi.php:660
 msgid ""
@@ -2660,7 +2659,7 @@ msgstr ""
 
 #: options_divi.php:663
 msgid "Enable canonical URL's"
-msgstr "Активувати функцію канонічних URL's"
+msgstr "Ввiмкнути канонічну URL-адресу"
 
 #: options_divi.php:670
 msgid "Custom field Name to be used for title"
@@ -2721,7 +2720,7 @@ msgstr ""
 
 #: options_divi.php:723
 msgid "Enable meta descriptions"
-msgstr "Активувати мета-описи"
+msgstr " мета-описи"
 
 #: options_divi.php:727
 msgid ""
@@ -2763,7 +2762,7 @@ msgstr "Інтеграція коду"
 
 #: options_divi.php:769
 msgid "Enable header code"
-msgstr "Увімкнути код верхнього колонтитула"
+msgstr "Ввiмкнути код заголовка"
 
 #: options_divi.php:773
 msgid ""
@@ -2776,7 +2775,7 @@ msgstr ""
 
 #: options_divi.php:776
 msgid "Enable body code"
-msgstr "Активувати < body > код"
+msgstr "Ввiмкнути body код"
 
 #: options_divi.php:780
 msgid ""
@@ -2789,7 +2788,7 @@ msgstr ""
 
 #: options_divi.php:783
 msgid "Enable single top code"
-msgstr "Активувати single top код"
+msgstr "Ввiмкнути single top код"
 
 #: options_divi.php:787
 msgid ""
@@ -2802,7 +2801,7 @@ msgstr ""
 
 #: options_divi.php:790
 msgid "Enable single bottom code"
-msgstr "Активувати single bottom код"
+msgstr "Ввiмкнути single bottom код"
 
 #: options_divi.php:794
 msgid ""
@@ -2889,7 +2888,7 @@ msgstr ""
 "\"http://www.elegantthemes.com/gallery/divi/documentation/update/\" target="
 "\"_blank\">Дізнайтеся більше тут</a></em>. Якщо Ви все ще отримуєте це "
 "повідомлення, будь ласка, переконайтеся, що Ви правильно ввели свої Ім'я "
-"користувача і API-ключ."
+"користувача і API-ключ"
 
 #: options_divi.php:861
 msgid "API Key"
@@ -2897,11 +2896,11 @@ msgstr "API-ключ"
 
 #: options_divi.php:887
 msgid "Manage Un-widgetized Advertisements"
-msgstr "Управління рекламою"
+msgstr "Управління Un-widgetized рекламою"
 
 #: options_divi.php:895
 msgid "Enable Single Post 468x60 banner"
-msgstr "Увімкнути банер для одного посту з роздільною здатністю 468x60"
+msgstr "Ввiмкнути Окремий запис 468 х 60 банер"
 
 #: options_divi.php:899
 msgid ""
@@ -2949,7 +2948,7 @@ msgstr "Сторінки:"
 #: functions.php:114
 msgctxt "Open Sans font: on or off"
 msgid "on"
-msgstr " "
+msgstr ""
 
 #: functions.php:8277
 msgctxt "WooCommerce items number"
@@ -2962,78 +2961,9 @@ msgstr[2] "%1$s Елементи"
 #: single-project.php:68
 msgctxt "Previous post link"
 msgid "&larr;"
-msgstr " "
+msgstr "&larr;"
 
 #: single-project.php:69
 msgctxt "Next post link"
 msgid "&rarr;"
-msgstr " "
-
-#~ msgid "MailChimp API Key"
-#~ msgstr "MailChimp API ключ"
-
-#~ msgid ""
-#~ "Enter your MailChimp API key. You can create an api key <a target=\"_blank"
-#~ "\" href=\"%1$s\">here</a>"
-#~ msgstr ""
-#~ "Введіть Ваш MailChimp API ключ. Ви можете створити api ключ <a target="
-#~ "\"_blank\" href=\"%1$s\">тут</a>"
-
-#~ msgid "Aweber Authorization"
-#~ msgstr "Aweber авторизація"
-
-#~ msgid "Authorize your Aweber account here."
-#~ msgstr "Авторизуйте Ваш Aweber аккаунт тут."
-
-#~ msgid "Regenerate MailChimp Lists"
-#~ msgstr "Регенерувати MailChimp списки"
-
-#~ msgid ""
-#~ "By default, MailChimp lists are cached for one day. If you added new "
-#~ "list, but it doesn't appear within the Email Optin module settings, "
-#~ "activate this option. Don't forget to disable it once the list has been "
-#~ "regenerated."
-#~ msgstr ""
-#~ "За замовчуванням списки MailChimp кешируются на один день. Якщо ви додали "
-#~ "новий список, але він не з'являється в настройках E-mail Optin модуля, "
-#~ "включіть цю опцію. Не забудьте відключити його, як тільки список був "
-#~ "регенерувати."
-
-#~ msgid "Regenerate Aweber Lists"
-#~ msgstr "Регенерувати Aweber списки"
-
-#~ msgid ""
-#~ "By default, Aweber lists are cached for one day. If you added new list, "
-#~ "but it doesn't appear within the Email Optin module settings, activate "
-#~ "this option. Don't forget to disable it once the list has been "
-#~ "regenerated."
-#~ msgstr ""
-#~ "За замовчуванням списки Aweber кешируются на один день. Якщо ви додали "
-#~ "новий список, але він не з'являється в настройках E-mail Optin модуля, "
-#~ "включіть цю опцію. Не забудьте відключити його, як тільки список був "
-#~ "регенерувати."
-
-#~ msgid ""
-#~ "There is a new version of %1$s available. <a href=\"%2$s\" class="
-#~ "\"thickbox\" title=\"%1$s\">View version %3$s details</a>. <em>Before you "
-#~ "can update your Elegant Themes, you must first install the <a href="
-#~ "\"https://www.elegantthemes.com/members-area/documentation.html#updater\" "
-#~ "target=\"_blank\">Elegant Updater Plugin</a> to authenticate your "
-#~ "subscription.</em>"
-#~ msgstr ""
-#~ "Доступна нова версія %1$s. <a href=\"%2$s\" class=\"thickbox\" title="
-#~ "\"%1$s\">Нова версія %3$s деталі</a>. <em>Щоб оновити Ваші Elegant "
-#~ "Themes, Вам спершу потрібно встановити <a href=\"https://www."
-#~ "elegantthemes.com/members-area/documentation.html#updater\" target="
-#~ "\"_blank\">Elegant Updater Plugin</a> щоб підтвердити Вашу підписку.</em>"
-
-#~ msgid ""
-#~ "Before you can update your Elegant Themes, you must first install the <a "
-#~ "href=\"https://www.elegantthemes.com/members-area/documentation."
-#~ "html#updater\" target=\"_blank\">Elegant Updater Plugin</a> to "
-#~ "authenticate your subscription."
-#~ msgstr ""
-#~ "Щоб оновити Ваші Elegant Themes, Вам спершу потрібно встановити <a href="
-#~ "\"https://www.elegantthemes.com/members-area/documentation.html#updater\" "
-#~ "target=\"_blank\">Elegant Updater Plugin</a> щоб підтвердити Вашу "
-#~ "підписку."
+msgstr "&rarr;"
