@@ -1,27 +1,27 @@
+# Copyright (C) 2017 
+# This file is distributed under the same license as the  package.
 msgid ""
 msgstr ""
-"Project-Id-Version: Divi 1.0\n"
+"Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/framework\n"
 "POT-Creation-Date: 2017-08-01 19:34:59+00:00\n"
-"PO-Revision-Date: 2017-07-29 01:34+0300\n"
-"Last-Translator: \n"
-"Language-Team: Elegant Themes\n"
-"Language: uk\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Poedit 1.8.7\n"
+"PO-Revision-Date: 2020-01-14 21:16+0200\n"
+"Language-Team: \n"
+"X-Generator: Poedit 2.2.4\n"
 "X-Poedit-KeywordsList: __;_e;_x:1,2c;_ex:1,2c;_n:1,2;_nx:1,2,4c;_n_noop:1,2;"
 "_nx_noop:1,2,3c;esc_attr__;esc_html__;esc_attr_e;esc_html_e;esc_attr_x:1,2c;"
 "esc_html_x:1,2c\n"
-"X-Poedit-Basepath: .\n"
-"X-Poedit-SourceCharset: UTF-8\n"
 "Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
-"%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"%10<=4 && (n%100<12 || n%100>14) ? 1 : 2);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-Basepath: ..\n"
+"X-Textdomain-Support: yes\n"
+"Last-Translator: \n"
+"Language: uk\n"
 "X-Poedit-SearchPath-0: .\n"
-"X-Poedit-SearchPath-1: ..\n"
-"X-Poedit-SearchPathExcluded-0: ../node_modules\n"
-"X-Poedit-SearchPathExcluded-1: ../frontend-builder/node_modules\n"
 
 #: class-et-builder-element.php:147 main-modules.php:338 main-modules.php:839
 #: main-modules.php:1183 main-modules.php:1465 main-modules.php:1584
@@ -107,7 +107,7 @@ msgstr "%1$s Інтервал між Рядками"
 #: main-structure-elements.php:141 main-structure-elements.php:1407
 #: main-structure-elements.php:2940
 msgid "Background"
-msgstr "Фон"
+msgstr "Тло"
 
 #: class-et-builder-element.php:1471 class-et-builder-element.php:6671
 #: main-modules.php:3819 main-modules.php:5724 main-modules.php:7046
@@ -117,7 +117,7 @@ msgstr "Фон"
 #: main-modules.php:22306 main-structure-elements.php:233
 #: main-structure-elements.php:1811 main-structure-elements.php:3217
 msgid "Background Color"
-msgstr "Колір фону"
+msgstr "Колір тла"
 
 #: class-et-builder-element.php:1482
 msgid "Use Background Color Gradient"
@@ -265,7 +265,7 @@ msgstr "Радіальний напрямок"
 #: main-modules.php:17671 main-modules.php:19197 main-modules.php:20309
 #: main-modules.php:22206 main-modules.php:22264
 msgid "Center"
-msgstr "По Центру"
+msgstr "Посередині"
 
 #: class-et-builder-element.php:1577 class-et-builder-element.php:1706
 #: class-et-builder-element.php:6800 class-et-builder-element.php:6835
@@ -273,7 +273,7 @@ msgstr "По Центру"
 #: main-modules.php:3219 main-modules.php:3748 main-modules.php:17153
 #: main-modules.php:20305 main-modules.php:22202
 msgid "Top Left"
-msgstr "Вгорі Зліва"
+msgstr "Верх зліва"
 
 #: class-et-builder-element.php:1578 class-et-builder-element.php:3502
 #: class-et-builder-element.php:6801 class-et-builder-element.php:7203
@@ -281,7 +281,7 @@ msgstr "Вгорі Зліва"
 #: main-modules.php:2178 main-modules.php:4817 main-modules.php:13609
 #: main-modules.php:23106
 msgid "Top"
-msgstr "Згори"
+msgstr "Угорі"
 
 #: class-et-builder-element.php:1579 class-et-builder-element.php:1708
 #: class-et-builder-element.php:6802 class-et-builder-element.php:6837
@@ -289,7 +289,7 @@ msgstr "Згори"
 #: main-modules.php:3221 main-modules.php:3750 main-modules.php:17155
 #: main-modules.php:20307 main-modules.php:22204
 msgid "Top Right"
-msgstr "Вгорі Праворуч"
+msgstr "Верх зправа"
 
 #: class-et-builder-element.php:1580 class-et-builder-element.php:2261
 #: class-et-builder-element.php:3509 class-et-builder-element.php:6803
@@ -299,7 +299,7 @@ msgstr "Вгорі Праворуч"
 #: main-modules.php:7365 main-modules.php:13313 main-modules.php:17216
 #: main-modules.php:17670 main-modules.php:22265 main-modules.php:23105
 msgid "Right"
-msgstr "З Правого Боку"
+msgstr "Зправа"
 
 #: class-et-builder-element.php:1581 class-et-builder-element.php:1714
 #: class-et-builder-element.php:6804 class-et-builder-element.php:6843
@@ -307,7 +307,7 @@ msgstr "З Правого Боку"
 #: main-modules.php:3227 main-modules.php:3756 main-modules.php:17161
 #: main-modules.php:20313 main-modules.php:22210
 msgid "Bottom Right"
-msgstr "Праворуч Внизу"
+msgstr "Внизу зправа"
 
 #: class-et-builder-element.php:1582 class-et-builder-element.php:3516
 #: class-et-builder-element.php:6805 class-et-builder-element.php:7205
@@ -323,7 +323,7 @@ msgstr "Внизу"
 #: main-modules.php:3225 main-modules.php:3754 main-modules.php:17159
 #: main-modules.php:20311 main-modules.php:22208
 msgid "Bottom Left"
-msgstr "Внизу Зліва"
+msgstr "Внизу зліва"
 
 #: class-et-builder-element.php:1584 class-et-builder-element.php:2262
 #: class-et-builder-element.php:3523 class-et-builder-element.php:6807
@@ -333,7 +333,7 @@ msgstr "Внизу Зліва"
 #: main-modules.php:13312 main-modules.php:17214 main-modules.php:17669
 #: main-modules.php:22263 main-modules.php:23104
 msgid "Left"
-msgstr "З Лівого Боку"
+msgstr "Ліворуч"
 
 #: class-et-builder-element.php:1596 class-et-builder-element.php:6808
 msgid "Start Position"
@@ -355,12 +355,12 @@ msgstr "Фонове Зображення"
 #: main-modules.php:13880 main-modules.php:19158 main-modules.php:19210
 #: main-modules.php:21653
 msgid "Upload an image"
-msgstr "Завантажити Зображення"
+msgstr "Завантажити зображення"
 
 #: class-et-builder-element.php:1642 class-et-builder-element.php:6980
 #: frontend-builder/helpers.php:233 main-modules.php:3705
 msgid "Choose a Background Image"
-msgstr "Вибрати Фонове Зображення"
+msgstr "Виберіть фонове зображення"
 
 #: class-et-builder-element.php:1643 class-et-builder-element.php:6981
 #: frontend-builder/helpers.php:234 main-modules.php:3706
@@ -398,8 +398,8 @@ msgstr "Справжній Паралакс"
 msgid "CSS"
 msgstr "CSS"
 
-#: class-et-builder-element.php:1681 main-modules.php:3201
-#: main-modules.php:3741 main-modules.php:20287
+#: class-et-builder-element.php:1681 main-modules.php:3201 main-modules.php:3741
+#: main-modules.php:20287
 msgid "Define the method, used for the parallax effect."
 msgstr "Виберіть метод для досягнення ефекту паралаксу."
 
@@ -413,19 +413,19 @@ msgstr "Фонове Зображення Розмір"
 #: frontend-builder/helpers.php:291 main-modules.php:3238 main-modules.php:3767
 #: main-modules.php:17140 main-modules.php:20324 main-modules.php:22189
 msgid "Cover"
-msgstr "Обкладинка"
+msgstr "Накривати"
 
 #: class-et-builder-element.php:1692 class-et-builder-element.php:6819
 #: frontend-builder/helpers.php:292 main-modules.php:3239 main-modules.php:3768
 #: main-modules.php:17141 main-modules.php:20325 main-modules.php:22190
 msgid "Fit"
-msgstr "Підходять"
+msgstr "Добрати"
 
 #: class-et-builder-element.php:1693 class-et-builder-element.php:6820
 #: frontend-builder/helpers.php:293 main-modules.php:3240 main-modules.php:3769
 #: main-modules.php:17142 main-modules.php:20326 main-modules.php:22191
 msgid "Actual Size"
-msgstr "Житлова Площа"
+msgstr "Фактичний розмір"
 
 #: class-et-builder-element.php:1702 class-et-builder-element.php:6990
 #: main-modules.php:3215 main-modules.php:3744 main-modules.php:17149
@@ -437,25 +437,25 @@ msgstr "Фонове Зображення Позиції"
 #: frontend-builder/helpers.php:308 main-modules.php:3220 main-modules.php:3749
 #: main-modules.php:17154 main-modules.php:20306 main-modules.php:22203
 msgid "Top Center"
-msgstr "Зверху По Центру"
+msgstr "Верх Центр"
 
 #: class-et-builder-element.php:1709 class-et-builder-element.php:6838
 #: frontend-builder/helpers.php:310 main-modules.php:3222 main-modules.php:3753
 #: main-modules.php:17156 main-modules.php:20308 main-modules.php:22205
 msgid "Center Left"
-msgstr "Зліва В Центрі"
+msgstr "Центр зліва"
 
 #: class-et-builder-element.php:1711 class-et-builder-element.php:6840
 #: frontend-builder/helpers.php:312 main-modules.php:3224 main-modules.php:3751
 #: main-modules.php:17158 main-modules.php:20310 main-modules.php:22207
 msgid "Center Right"
-msgstr "Центр Права"
+msgstr "Центр зправа"
 
 #: class-et-builder-element.php:1713 class-et-builder-element.php:6842
 #: frontend-builder/helpers.php:314 main-modules.php:3226 main-modules.php:3755
 #: main-modules.php:17160 main-modules.php:20312 main-modules.php:22209
 msgid "Bottom Center"
-msgstr "Внизу По Центру"
+msgstr "Внизу центр"
 
 #: class-et-builder-element.php:1723 class-et-builder-element.php:6992
 #: main-modules.php:3777 main-modules.php:17168 main-modules.php:22217
@@ -463,40 +463,40 @@ msgid "Background Image Repeat"
 msgstr "Повторити Фонову Картинку"
 
 #: class-et-builder-element.php:1727 class-et-builder-element.php:6855
-#: frontend-builder/helpers.php:334 main-modules.php:3786
-#: main-modules.php:17177 main-modules.php:22226
+#: frontend-builder/helpers.php:334 main-modules.php:3786 main-modules.php:17177
+#: main-modules.php:22226
 msgid "No Repeat"
 msgstr "Не повторювати"
 
 #: class-et-builder-element.php:1728 class-et-builder-element.php:6856
-#: frontend-builder/helpers.php:329 main-modules.php:3781
-#: main-modules.php:17172 main-modules.php:22221
+#: frontend-builder/helpers.php:329 main-modules.php:3781 main-modules.php:17172
+#: main-modules.php:22221
 msgid "Repeat"
-msgstr "Повторити"
+msgstr "Повторювати"
 
 #: class-et-builder-element.php:1729 class-et-builder-element.php:6857
-#: frontend-builder/helpers.php:330 main-modules.php:3782
-#: main-modules.php:17173 main-modules.php:22222
+#: frontend-builder/helpers.php:330 main-modules.php:3782 main-modules.php:17173
+#: main-modules.php:22222
 msgid "Repeat X (horizontal)"
 msgstr "Повторити X (горизонтально)"
 
 #: class-et-builder-element.php:1730 class-et-builder-element.php:6858
-#: frontend-builder/helpers.php:331 main-modules.php:3783
-#: main-modules.php:17174 main-modules.php:22223
+#: frontend-builder/helpers.php:331 main-modules.php:3783 main-modules.php:17174
+#: main-modules.php:22223
 msgid "Repeat Y (vertical)"
 msgstr "Повторити Y (вертикально)"
 
 #: class-et-builder-element.php:1731 class-et-builder-element.php:6859
-#: frontend-builder/helpers.php:332 main-modules.php:3784
-#: main-modules.php:17175 main-modules.php:22224
+#: frontend-builder/helpers.php:332 main-modules.php:3784 main-modules.php:17175
+#: main-modules.php:22224
 msgid "Space"
-msgstr "Простір"
+msgstr "Відступ"
 
 #: class-et-builder-element.php:1732 class-et-builder-element.php:6860
-#: frontend-builder/helpers.php:333 main-modules.php:3785
-#: main-modules.php:17176 main-modules.php:22225
+#: frontend-builder/helpers.php:333 main-modules.php:3785 main-modules.php:17176
+#: main-modules.php:22225
 msgid "Round"
-msgstr "Кругле"
+msgstr "Округла"
 
 #: class-et-builder-element.php:1741 class-et-builder-element.php:6994
 #: main-modules.php:3793 main-modules.php:17184 main-modules.php:22233
@@ -504,20 +504,20 @@ msgid "Background Image Blend"
 msgstr "Змішати фонову картинку"
 
 #: class-et-builder-element.php:1745 class-et-builder-element.php:6882
-#: frontend-builder/helpers.php:348 main-modules.php:3797
-#: main-modules.php:17188 main-modules.php:22237
+#: frontend-builder/helpers.php:348 main-modules.php:3797 main-modules.php:17188
+#: main-modules.php:22237
 msgid "Normal"
-msgstr "Нормальне"
+msgstr "Звичайний"
 
 #: class-et-builder-element.php:1746 class-et-builder-element.php:6883
-#: frontend-builder/helpers.php:349 main-modules.php:3798
-#: main-modules.php:17189 main-modules.php:22238
+#: frontend-builder/helpers.php:349 main-modules.php:3798 main-modules.php:17189
+#: main-modules.php:22238
 msgid "Multiply"
 msgstr "Помножити"
 
 #: class-et-builder-element.php:1747 class-et-builder-element.php:6884
-#: frontend-builder/helpers.php:350 main-modules.php:3799
-#: main-modules.php:17190 main-modules.php:22239
+#: frontend-builder/helpers.php:350 main-modules.php:3799 main-modules.php:17190
+#: main-modules.php:22239
 msgid "Screen"
 msgstr "Екран"
 
@@ -531,65 +531,65 @@ msgstr "Екран"
 #: main-modules.php:20629 main-modules.php:21619 main-modules.php:22240
 #: main-modules.php:22689
 msgid "Overlay"
-msgstr "Оверлей"
+msgstr "Накладання"
 
 #: class-et-builder-element.php:1749 class-et-builder-element.php:6886
-#: frontend-builder/helpers.php:352 main-modules.php:3801
-#: main-modules.php:17192 main-modules.php:22241
+#: frontend-builder/helpers.php:352 main-modules.php:3801 main-modules.php:17192
+#: main-modules.php:22241
 msgid "Darken"
-msgstr "Затемнити"
+msgstr "Темніє"
 
 #: class-et-builder-element.php:1750 class-et-builder-element.php:6887
-#: frontend-builder/helpers.php:353 main-modules.php:3802
-#: main-modules.php:17193 main-modules.php:22242
+#: frontend-builder/helpers.php:353 main-modules.php:3802 main-modules.php:17193
+#: main-modules.php:22242
 msgid "Lighten"
 msgstr "Висвітлити"
 
 #: class-et-builder-element.php:1751 class-et-builder-element.php:6888
-#: frontend-builder/helpers.php:354 main-modules.php:3803
-#: main-modules.php:17194 main-modules.php:22243
+#: frontend-builder/helpers.php:354 main-modules.php:3803 main-modules.php:17194
+#: main-modules.php:22243
 msgid "Color Dodge"
 msgstr "Кольорове ухилення"
 
 #: class-et-builder-element.php:1752 class-et-builder-element.php:6889
-#: frontend-builder/helpers.php:355 main-modules.php:3804
-#: main-modules.php:17195 main-modules.php:22244
+#: frontend-builder/helpers.php:355 main-modules.php:3804 main-modules.php:17195
+#: main-modules.php:22244
 msgid "Color Burn"
 msgstr "Кольорове горіння"
 
 #: class-et-builder-element.php:1753 class-et-builder-element.php:6890
-#: frontend-builder/helpers.php:356 main-modules.php:3805
-#: main-modules.php:17196 main-modules.php:22245
+#: frontend-builder/helpers.php:356 main-modules.php:3805 main-modules.php:17196
+#: main-modules.php:22245
 msgid "Hard Light"
 msgstr "Тверде світло"
 
 #: class-et-builder-element.php:1754 class-et-builder-element.php:6891
-#: frontend-builder/helpers.php:357 main-modules.php:3806
-#: main-modules.php:17197 main-modules.php:22246
+#: frontend-builder/helpers.php:357 main-modules.php:3806 main-modules.php:17197
+#: main-modules.php:22246
 msgid "Soft Light"
 msgstr "М'яке світло"
 
 #: class-et-builder-element.php:1755 class-et-builder-element.php:6892
-#: frontend-builder/helpers.php:358 main-modules.php:3807
-#: main-modules.php:17198 main-modules.php:22247
+#: frontend-builder/helpers.php:358 main-modules.php:3807 main-modules.php:17198
+#: main-modules.php:22247
 msgid "Difference"
 msgstr "Різниця"
 
 #: class-et-builder-element.php:1756 class-et-builder-element.php:6893
-#: frontend-builder/helpers.php:359 main-modules.php:3808
-#: main-modules.php:17199 main-modules.php:22248
+#: frontend-builder/helpers.php:359 main-modules.php:3808 main-modules.php:17199
+#: main-modules.php:22248
 msgid "Exclusion"
 msgstr "Виняток"
 
 #: class-et-builder-element.php:1757 class-et-builder-element.php:6894
-#: frontend-builder/helpers.php:360 main-modules.php:3809
-#: main-modules.php:17200 main-modules.php:22249
+#: frontend-builder/helpers.php:360 main-modules.php:3809 main-modules.php:17200
+#: main-modules.php:22249
 msgid "Hue"
-msgstr "Колір"
+msgstr "Кольоровий тон"
 
 #: class-et-builder-element.php:1758 class-et-builder-element.php:6895
-#: frontend-builder/helpers.php:361 main-modules.php:3810
-#: main-modules.php:17201 main-modules.php:22250
+#: frontend-builder/helpers.php:361 main-modules.php:3810 main-modules.php:17201
+#: main-modules.php:22250
 msgid "Saturation"
 msgstr "Насиченість"
 
@@ -601,8 +601,8 @@ msgid "Color"
 msgstr "Колір"
 
 #: class-et-builder-element.php:1760 class-et-builder-element.php:6897
-#: frontend-builder/helpers.php:363 main-modules.php:3812
-#: main-modules.php:17203 main-modules.php:22252
+#: frontend-builder/helpers.php:363 main-modules.php:3812 main-modules.php:17203
+#: main-modules.php:22252
 msgid "Luminosity"
 msgstr "Яскравість"
 
@@ -638,11 +638,11 @@ msgid ""
 "background image will be used. For this reason, you should define both a "
 "background image and a background video to ensure best results.</b>"
 msgstr ""
-"Усі відео повинні бути завантажені в обох форматах: .MP4 і  .WEBM, – щоб "
+"Усі відео повинні бути завантажені в обох форматах: .MP4 і .WEBM, – щоб "
 "забезпечити максимальну сумісність в усіх браузерах. Завантажте сюди .MP4 "
-"версію. Зауважте: фонові відео не працюють на мобільних пристроях. "
-"Натомість, буде відображатися фонове зображення. Тому виберіть і фонове "
-"зображення, і фонове відео, щоб досягти найкращого результату."
+"версію. Зауважте: фонові відео не працюють на мобільних пристроях. Натомість, "
+"буде відображатися фонове зображення. Тому виберіть і фонове зображення, і "
+"фонове відео, щоб досягти найкращого результату.</b>"
 
 #: class-et-builder-element.php:1787 class-et-builder-element.php:7081
 #: main-modules.php:3947
@@ -662,11 +662,11 @@ msgid ""
 "background image will be used. For this reason, you should define both a "
 "background image and a background video to ensure best results.</b>"
 msgstr ""
-"Усі відео повинні бути завантажені в обох форматах: .MP4 і  .WEBM, – щоб "
+"Усі відео повинні бути завантажені в обох форматах: .MP4 і .WEBM, – щоб "
 "забезпечити максимальну сумісність в усіх браузерах. Завантажте сюди .WEBM "
-"версію. Зауважте: фонові відео не працюють на мобільних пристроях. "
-"Натомість, буде відображатися фонове зображення. Тому виберіть і фонове "
-"зображення, і фонове відео, щоб досягти найкращого результату."
+"версію. Зауважте: фонові відео не працюють на мобільних пристроях. Натомість, "
+"буде відображатися фонове зображення. Тому виберіть і фонове зображення, і "
+"фонове відео, щоб досягти найкращого результату.</b>"
 
 #: class-et-builder-element.php:1803 class-et-builder-element.php:7083
 #: main-modules.php:3961
@@ -675,8 +675,8 @@ msgstr "Ширина Фонового Відео"
 
 #: class-et-builder-element.php:1806 main-modules.php:3965
 msgid ""
-"In order for videos to be sized correctly, you must input the exact width "
-"(in pixels) of your video here."
+"In order for videos to be sized correctly, you must input the exact width (in "
+"pixels) of your video here."
 msgstr ""
 "39. Щоб відео були правильного розміру, введіть сюди точну ширину вашого "
 "відео (в пікселях)."
@@ -705,7 +705,7 @@ msgstr "Дозволити призупиняти відео, коли почи�
 
 #: class-et-builder-element.php:1876
 msgid "Border"
-msgstr "бордюр"
+msgstr "Рамка"
 
 #: class-et-builder-element.php:1885
 msgid "Use Border"
@@ -713,23 +713,22 @@ msgstr "Застосування Кордонів"
 
 #: class-et-builder-element.php:1904
 msgid "Border Color"
-msgstr "Колір Кордонів"
+msgstr "Колір межі"
 
 #: class-et-builder-element.php:1915
 msgid "Border Width"
-msgstr "Ширина Кордонів"
+msgstr "Ширина границі"
 
 #: class-et-builder-element.php:1926
 msgid "Border Style"
-msgstr "Стиль Кордонів"
+msgstr "Стиль границі"
 
 #: class-et-builder-element.php:1961 class-et-builder-settings.php:764
 #: main-modules.php:3029 main-modules.php:4543 main-modules.php:10312
-#: main-modules.php:20116 main-modules.php:22696
-#: main-structure-elements.php:159 main-structure-elements.php:1425
-#: main-structure-elements.php:2957
+#: main-modules.php:20116 main-modules.php:22696 main-structure-elements.php:159
+#: main-structure-elements.php:1425 main-structure-elements.php:2957
 msgid "Spacing"
-msgstr "Відстань"
+msgstr "Відступи"
 
 #: class-et-builder-element.php:1971 main-structure-elements.php:1792
 msgid "Custom Margin"
@@ -771,7 +770,7 @@ msgstr "Додати %1$s ікона"
 #: class-et-builder-element.php:2215 frontend-builder/assets.php:98
 #: functions.php:1267
 msgid "Default"
-msgstr "За замовчуванням"
+msgstr "Без обумовлення"
 
 #: class-et-builder-element.php:2232
 msgid "%1$s Icon"
@@ -812,7 +811,7 @@ msgstr "%1$s у наведенні межбуквенное"
 #: class-et-builder-element.php:2407 class-et-builder-element.php:7278
 #: main-modules.php:16437 main-modules.php:16633
 msgid "Before"
-msgstr "До"
+msgstr "Перед"
 
 #: class-et-builder-element.php:2412 class-et-builder-element.php:7279
 #: main-modules.php:2903 main-modules.php:7276 main-modules.php:16441
@@ -833,7 +832,7 @@ msgstr "CSS ID & Класи"
 #: class-et-builder-settings.php:761 main-structure-elements.php:182
 #: main-structure-elements.php:1450 main-structure-elements.php:2980
 msgid "Custom CSS"
-msgstr "Власний CSS"
+msgstr "Користувацький CSS"
 
 #: class-et-builder-element.php:2924
 msgid "Background:"
@@ -842,7 +841,7 @@ msgstr "Фон:"
 #: class-et-builder-element.php:3224 class-et-builder-element.php:4086
 #: frontend-builder/helpers.php:734
 msgid "Add New Item"
-msgstr "Додати Новий Елемент"
+msgstr "Додати новий елемент"
 
 #: class-et-builder-element.php:3245 frontend-builder/helpers.php:775
 msgid "equals"
@@ -893,7 +892,7 @@ msgstr "Додати нове правило"
 #: class-et-builder-element.php:3351 class-et-builder-element.php:6675
 #: class-et-builder-element.php:6792
 msgid "Hex Value"
-msgstr "Номер кольору"
+msgstr "HEX-код"
 
 #: class-et-builder-element.php:3363
 msgid "Choose Custom Color"
@@ -901,7 +900,7 @@ msgstr "Обрати Користувацький Колір"
 
 #: class-et-builder-element.php:3374 frontend-builder/helpers.php:737
 msgid "Upload"
-msgstr "Завантажити"
+msgstr "Upload"
 
 #: class-et-builder-element.php:3375
 msgid "Choose image"
@@ -932,7 +931,7 @@ msgstr "Дизайн"
 
 #: class-et-builder-element.php:3833 frontend-builder/helpers.php:766
 msgid "Advanced"
-msgstr "Розширені"
+msgstr "Для досвідчених"
 
 #: class-et-builder-element.php:4047
 msgid "You don't have sufficient permissions to access the settings"
@@ -947,7 +946,7 @@ msgstr ""
 
 #: class-et-builder-element.php:4086
 msgid "Add New %s"
-msgstr "Додати Новий %s"
+msgstr "Додати новий %s"
 
 #: class-et-builder-element.php:4098
 msgid "General Settings"
@@ -977,9 +976,8 @@ msgstr "Градієнт"
 msgid "Image"
 msgstr "Зображення"
 
-#: class-et-builder-element.php:6643 main-modules.php:1073
-#: main-modules.php:1090 main-modules.php:1339 main-modules.php:1562
-#: main-modules.php:1582
+#: class-et-builder-element.php:6643 main-modules.php:1073 main-modules.php:1090
+#: main-modules.php:1339 main-modules.php:1562 main-modules.php:1582
 msgid "Video"
 msgstr "Відео"
 
@@ -1000,7 +998,7 @@ msgstr "Фоновий градієнт"
 #: main-modules.php:20797 main-modules.php:21225 main-modules.php:21237
 #: main-modules.php:21732 main-modules.php:23179 main-modules.php:23205
 msgid "On"
-msgstr "Увімкнути"
+msgstr "Вкл"
 
 #: class-et-builder-element.php:6790 class-et-builder-element.php:6984
 #: class-et-builder-element.php:7087 class-et-builder-settings.php:51
@@ -1025,7 +1023,7 @@ msgstr "Колонка"
 
 #: class-et-builder-element.php:7202
 msgid "Padding"
-msgstr "Відступ"
+msgstr "Наповнення"
 
 #: class-et-builder-element.php:7333 main-modules.php:344 main-modules.php:845
 #: main-modules.php:1189 main-modules.php:1471 main-modules.php:1966
@@ -1042,11 +1040,10 @@ msgstr "Відступ"
 #: main-modules.php:18557 main-modules.php:19256 main-modules.php:19780
 #: main-modules.php:20434 main-modules.php:20861 main-modules.php:21265
 #: main-modules.php:21416 main-modules.php:21534 main-modules.php:21811
-#: main-modules.php:22332 main-modules.php:23311
-#: main-structure-elements.php:858 main-structure-elements.php:2371
-#: main-structure-elements.php:3445
+#: main-modules.php:22332 main-modules.php:23311 main-structure-elements.php:858
+#: main-structure-elements.php:2371 main-structure-elements.php:3445
 msgid "CSS ID"
-msgstr "CSS ID"
+msgstr "SS ID"
 
 #: class-et-builder-element.php:7334 main-modules.php:352 main-modules.php:853
 #: main-modules.php:1197 main-modules.php:1479 main-modules.php:1974
@@ -1063,9 +1060,8 @@ msgstr "CSS ID"
 #: main-modules.php:18565 main-modules.php:19264 main-modules.php:19788
 #: main-modules.php:20442 main-modules.php:20869 main-modules.php:21273
 #: main-modules.php:21424 main-modules.php:21542 main-modules.php:21819
-#: main-modules.php:22340 main-modules.php:23319
-#: main-structure-elements.php:866 main-structure-elements.php:2379
-#: main-structure-elements.php:3453
+#: main-modules.php:22340 main-modules.php:23319 main-structure-elements.php:866
+#: main-structure-elements.php:2379 main-structure-elements.php:3453
 msgid "CSS Class"
 msgstr "Клас CSS"
 
@@ -1104,8 +1100,8 @@ msgstr "Підключення вихідних стилів"
 #: class-et-builder-settings.php:154
 msgid ""
 "With previous versions of the builder, css styles for the modules' design "
-"settings were output inline in the footer. Enable this option to restore "
-"that behavior."
+"settings were output inline in the footer. Enable this option to restore that "
+"behavior."
 msgstr ""
 "У попередніх версіях конструктора, стилі css для налаштувань дизайну модулів "
 "виводились на нижній колонтитул. Увімкніть цю опцію щоб відновити такий "
@@ -1121,7 +1117,7 @@ msgid ""
 "launched for the first time"
 msgstr ""
 "У випадку увімкнення, Тур Продуктом розпочнеться автоматично під час запуску "
-"Візуального Конструктора вперше."
+"Візуального Конструктора вперше"
 
 #: class-et-builder-settings.php:263
 msgid "Color Picker Color Pallete"
@@ -1178,11 +1174,11 @@ msgstr "Головна"
 
 #: class-et-builder-settings.php:760
 msgid "Color Palette"
-msgstr "Кольорова палітра"
+msgstr "Палітра кольорів"
 
 #: class-et-builder-settings.php:762
 msgid "Performance"
-msgstr "Робота"
+msgstr "Продуктивність"
 
 #: class-et-builder-settings.php:765 functions.php:2647 functions.php:5544
 msgid "Split Testing"
@@ -1190,11 +1186,12 @@ msgstr "Спліт-тестування"
 
 #: comments_template.php:4
 msgid "This post is password protected. Enter the password to view comments."
-msgstr "Цей пост захищений паролем. Введіть пароль, щоб побачити коментарі."
+msgstr ""
+"Дана публікація захищена паролем. Введіть пароль щоб побачити коментарі."
 
 #: comments_template.php:12
 msgid "0 Comments"
-msgstr "0 коментарів"
+msgstr "0 Коментарів"
 
 #: comments_template.php:12 functions.php:576 functions.php:2702
 msgid "1 Comment"
@@ -1206,11 +1203,11 @@ msgstr "Коментарі"
 
 #: comments_template.php:16 comments_template.php:29
 msgid "<span class=\"meta-nav\">&larr;</span> Older Comments"
-msgstr "<span class=\"meta-nav\">&larr;</span> Старіші коментарі"
+msgstr "<span class=\"meta-nav\">&larr;</span> Старі коментарі"
 
 #: comments_template.php:17 comments_template.php:30
 msgid "Newer Comments <span class=\"meta-nav\">&rarr;</span>"
-msgstr "Новіші коментарі <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Нові коментарі <span class=\"meta-nav\">&rarr;</span>"
 
 #: comments_template.php:36
 msgid "Trackbacks/Pingbacks"
@@ -1218,7 +1215,7 @@ msgstr "Трекбеки/Пінгбеки"
 
 #: comments_template.php:54 main-modules.php:18283
 msgid "Submit Comment"
-msgstr "Опублікувати коментар"
+msgstr "Відправити коментар"
 
 #: comments_template.php:54
 msgid "Submit a Comment"
@@ -1226,7 +1223,7 @@ msgstr "Опублікувати коментар"
 
 #: comments_template.php:54
 msgid "Leave a Reply to %s"
-msgstr "Залишити відповідь на %s"
+msgstr "Залишити коментар про %s"
 
 #: core.php:37
 msgid "Add New Layout"
@@ -1258,11 +1255,11 @@ msgstr "Нічого не знайдено"
 
 #: core.php:44 core.php:1884
 msgid "Nothing found in Trash"
-msgstr "Нічого не знайдено у корзині"
+msgstr "Нічого не знайдено у Кошику"
 
 #: core.php:79
 msgid "Scope"
-msgstr "Обсяг"
+msgstr "Сфера"
 
 #: core.php:92
 msgid "Layout Type"
@@ -1274,7 +1271,7 @@ msgstr "Ширина Модулю"
 
 #: core.php:118
 msgid "Category"
-msgstr "Рубрика"
+msgstr "Категорії"
 
 #: core.php:211
 msgid ""
@@ -1298,7 +1295,7 @@ msgstr "Автор"
 
 #: core.php:348
 msgid "Contributor"
-msgstr "Учасник"
+msgstr "Помічник"
 
 #: core.php:397
 msgid "Replace the existing content with loaded layout"
@@ -1322,11 +1319,11 @@ msgstr ""
 
 #: core.php:1234 core.php:1387
 msgid "Error while saving."
-msgstr "Під час збереження сталася помилка."
+msgstr "Помилка при збереженні змін."
 
 #: core.php:1241
 msgid "Sorry, you are not allowed to edit this item."
-msgstr "На жаль, Ви не можете редагувати цей елемент."
+msgstr "На жаль, вам не дозволено редагувати цей елемент."
 
 #: core.php:1373 core.php:1406
 msgid "Not saved, editor out of focus"
@@ -1344,7 +1341,7 @@ msgstr ""
 #. translators: %s: date and time
 #: core.php:1392
 msgid "Draft saved at %s."
-msgstr "Чернетка збережена в %s."
+msgstr "Чернетку збережено о %s."
 
 #: core.php:1567 core.php:1640
 msgid "Error: "
@@ -1380,19 +1377,19 @@ msgstr "Проект"
 
 #: core.php:1876
 msgid "Add New"
-msgstr "Додати новий"
+msgstr "Додати нову"
 
 #: core.php:1877
 msgid "Add New Project"
-msgstr "Додавання Нового Проекту"
+msgstr "Додати новий проект"
 
 #: core.php:1878
 msgid "Edit Project"
-msgstr "Редагування Проекту"
+msgstr "Редагувати проект"
 
 #: core.php:1879
 msgid "New Project"
-msgstr "Новий Проект"
+msgstr "Новий проект"
 
 #: core.php:1880
 msgid "All Projects"
@@ -1400,11 +1397,11 @@ msgstr "Всі Проекти"
 
 #: core.php:1881
 msgid "View Project"
-msgstr "Вид Проекту"
+msgstr "Переглянути проект"
 
 #: core.php:1882
 msgid "Search Projects"
-msgstr "Пошук Проектів"
+msgstr "Шукати проекти"
 
 #: core.php:1911
 msgid "Project Categories"
@@ -1425,15 +1422,15 @@ msgstr "Всі рубрики"
 
 #: core.php:1915
 msgid "Parent Category"
-msgstr "Батьківська Категорія"
+msgstr "Батьківська рубрика"
 
 #: core.php:1916
 msgid "Parent Category:"
-msgstr "Батьківська Категорія:"
+msgstr "Батьківська категорія:"
 
 #: core.php:1917
 msgid "Edit Category"
-msgstr "Редагування Категорії"
+msgstr "Редагувати Категорію"
 
 #: core.php:1918
 msgid "Update Category"
@@ -1445,7 +1442,7 @@ msgstr "Додати Нову Категорію"
 
 #: core.php:1920
 msgid "New Category Name"
-msgstr "Нове Ім'я Категорії"
+msgstr "Назва нової Категорії"
 
 #: core.php:1921 main-modules.php:18396
 msgid "Categories"
@@ -1453,15 +1450,15 @@ msgstr "Категорії"
 
 #: core.php:1933
 msgid "Project Tags"
-msgstr "Теги Проекту"
+msgstr "Позначки проекту"
 
 #: core.php:1934
 msgid "Project Tag"
-msgstr "Проект Тега"
+msgstr "Позначка проекту"
 
 #: core.php:1935
 msgid "Search Tags"
-msgstr "Пошук За Тегами"
+msgstr "Пошук за мітками"
 
 #: core.php:1936
 msgid "All Tags"
@@ -1469,11 +1466,11 @@ msgstr "Всі Теги"
 
 #: core.php:1937
 msgid "Parent Tag"
-msgstr "Батьківський Тег"
+msgstr "Батьківська позначка"
 
 #: core.php:1938
 msgid "Parent Tag:"
-msgstr "Батьківський Тег:"
+msgstr "Батьківська позначка:"
 
 #: core.php:1939
 msgid "Edit Tag"
@@ -1481,19 +1478,19 @@ msgstr "Редагування Тегів"
 
 #: core.php:1940
 msgid "Update Tag"
-msgstr "Оновлення Тега"
+msgstr "Оновити теґ"
 
 #: core.php:1941
 msgid "Add New Tag"
-msgstr "Додати Новий Тег"
+msgstr "Додати нову позначку"
 
 #: core.php:1942
 msgid "New Tag Name"
-msgstr "Нове Ім'я Тега"
+msgstr "Назва нової позначки"
 
 #: core.php:1943
 msgid "Tags"
-msgstr "Теги"
+msgstr "Позначки"
 
 #: core.php:2034
 msgid ""
@@ -1530,8 +1527,8 @@ msgid ""
 "malfunction."
 msgstr ""
 "Divi Builder був оновлений, проте ваш браузер завантажує стару кешовану "
-"версію будівельника. Завантаження старих файлів може привести до "
-"несправності будівельника."
+"версію будівельника. Завантаження старих файлів може привести до несправності "
+"будівельника."
 
 #: core.php:2077 core.php:2131
 msgid "Reload The Builder"
@@ -1553,8 +1550,8 @@ msgstr "Тайм-аут Divi Builder"
 
 #: core.php:2132
 msgid ""
-"Oops, it looks like the Divi Builder failed to load. Performing the "
-"following actions may help solve the problem."
+"Oops, it looks like the Divi Builder failed to load. Performing the following "
+"actions may help solve the problem."
 msgstr ""
 "На жаль, здається, не вдалося завантажити Divi Конструктор. Виконання "
 "наступних дій може допомогти вирішити цю проблему."
@@ -1565,11 +1562,11 @@ msgstr "У Вас залишилися незбережені зміни"
 
 #: core.php:2162
 msgid ""
-"Your page contains changes that have not been saved. If you close the "
-"builder without saving, these changes will be lost. If you would like to "
-"leave the builder and save all changes, please select <strong>Save & Exit</"
-"strong>. If you would like to discard all recent changes, choose "
-"<strong>Discard & Exit</strong>."
+"Your page contains changes that have not been saved. If you close the builder "
+"without saving, these changes will be lost. If you would like to leave the "
+"builder and save all changes, please select <strong>Save & Exit</strong>. If "
+"you would like to discard all recent changes, choose <strong>Discard & Exit</"
+"strong>."
 msgstr ""
 "Ваша сторінка містить незбережені зміни. Якщо Ви закриєте вікно конструктора "
 "без збереження цих змін, вони будуть втрачені. Якщо Ви б хотіли зберегти усі "
@@ -1591,8 +1588,8 @@ msgstr "Існує резервна копія браузера"
 
 #: core.php:2192
 msgid ""
-"A browser backup exists for this post that is newer than  the version you "
-"are currently viewing. This backup was captured during your previous editing "
+"A browser backup exists for this post that is newer than  the version you are "
+"currently viewing. This backup was captured during your previous editing "
 "session, but you never saved it. Would you like to restore this backup and "
 "continue editing where you left off?"
 msgstr ""
@@ -1615,10 +1612,10 @@ msgstr "Існує автоматичне зберігання"
 
 #: core.php:2221
 msgid ""
-"A recent autosave exists for this post that is newer than the version you "
-"are currently viewing. This autosave was captured during your previous "
-"editing session, but you never saved it. Would you like to restore this "
-"autosave and continue editing where you left off?"
+"A recent autosave exists for this post that is newer than the version you are "
+"currently viewing. This autosave was captured during your previous editing "
+"session, but you never saved it. Would you like to restore this autosave and "
+"continue editing where you left off?"
 msgstr ""
 "Для цього повідомлення існує нещодавнє автозбереження, що є новішим, ніж та "
 "версія, яку Ви переглядаєте зараз. Це автозбереження було зроблене під час "
@@ -1645,8 +1642,7 @@ msgstr ""
 "можете спробувати зберегти знову, натиснувши Спробувати ще раз, або ж Ви "
 "можете завантажити резервну копію своєї незбереженої сторінки, натиснувши "
 "Завантажити резервну копію. Резервні копії можуть бути завантажені шляхом "
-"використання системи портативності, поруч з вікном редагування Вашої "
-"сторінки."
+"використання системи портативності, поруч з вікном редагування Вашої сторінки."
 
 #: core.php:2253
 msgid ""
@@ -1668,13 +1664,13 @@ msgid ""
 "and browser extensions and try to save again to determine if something is "
 "causing a conflict."
 msgstr ""
-"І, нарешті, рекомендуємо тимчасово вимкнути усі плагіни WordPress та "
-"розширення браузера й спробувати зберегти ще раз, щоб з'ясувати, чи щось "
-"заважає цьому щось."
+"Нарешті, рекомендується, щоб ви тимчасово відключити всі плагіни WordPress і "
+"розширень браузера і спробувати зберегти знову, щоб визначити, якщо щось "
+"викликає конфлікт."
 
 #: core.php:2255
 msgid "Try Again"
-msgstr "Спробувати знову"
+msgstr "Спробуйте знову"
 
 #: core.php:2256
 msgid "Download Backup"
@@ -1687,12 +1683,12 @@ msgstr ""
 
 #: core.php:2276
 msgid "Disable Debug Mode"
-msgstr "Вийти з режиму відладки"
+msgstr "Вимкнути Режим налагодження"
 
 #: core.php:2308
 msgid ""
-"You are using third party plugins. Try disabling each plugin to see if one "
-"is causing a conflict."
+"You are using third party plugins. Try disabling each plugin to see if one is "
+"causing a conflict."
 msgstr ""
 "Ви використовуєте плагіни сторонніх розробників. Спробуйте відключити кожен "
 "плагін, щоб побачити чи якийсь із них викликає конфлікт."
@@ -1728,7 +1724,7 @@ msgstr "Ви використовуєте застарілу версію тем
 
 #: core.php:2369
 msgid "Upgrade"
-msgstr "Оновити"
+msgstr "Перейти"
 
 #: core.php:2467
 msgid "Disable Memory Limit Increase"
@@ -1776,19 +1772,19 @@ msgstr "Неправильна адреса електронної пошти"
 
 #: framework.php:103
 msgid "Captcha"
-msgstr "Капчі"
+msgstr "Капча"
 
 #: framework.php:104
 msgid "Prev"
-msgstr "Перед"
+msgstr "Попер"
 
 #: framework.php:105
 msgid "Previous"
-msgstr "Попередні"
+msgstr "Попередній"
 
 #: framework.php:106
 msgid "Next"
-msgstr "Далі"
+msgstr "Наступне"
 
 #: framework.php:107
 msgid "You entered the wrong number in captcha."
@@ -1804,7 +1800,7 @@ msgstr "Очистити"
 
 #: frontend-builder/assets.php:99
 msgid "Select Color"
-msgstr "Обрати колір"
+msgstr "Вибрати колір"
 
 #: frontend-builder/assets.php:100
 msgid "Current Color"
@@ -1973,7 +1969,7 @@ msgstr "Дякуємо, що зв’язались з нами"
 #: frontend-builder/helpers.php:676 frontend-builder/helpers.php:727
 #: main-modules.php:7994 main-modules.php:12536
 msgid "Submit"
-msgstr "Відправити"
+msgstr "Представляти"
 
 #: frontend-builder/helpers.php:679 main-modules.php:13165
 msgid "No options added."
@@ -1985,7 +1981,7 @@ msgstr "-- Будь ласка, виберіть --"
 
 #: frontend-builder/helpers.php:683 main-modules.php:16017
 msgid "Day(s)"
-msgstr "День(и)"
+msgstr "День"
 
 #: frontend-builder/helpers.php:684 main-modules.php:16024
 msgid "Day"
@@ -2036,12 +2032,12 @@ msgstr "Ім’я"
 #: frontend-builder/helpers.php:697 main-modules.php:12097
 #: main-modules.php:12194
 msgid "Email"
-msgstr "Електронна адреса"
+msgstr "Email"
 
 #: frontend-builder/helpers.php:700 main-modules.php:10211
 #: main-modules.php:12785 main-modules.php:12839
 msgid "All"
-msgstr "Все"
+msgstr "Усі"
 
 #: frontend-builder/helpers.php:703
 msgid "Login as %s"
@@ -2049,11 +2045,11 @@ msgstr "Увійти як %s"
 
 #: frontend-builder/helpers.php:704 main-modules.php:8569 main-modules.php:8999
 msgid "Login"
-msgstr "Логін"
+msgstr "Увійти"
 
 #: frontend-builder/helpers.php:705 main-modules.php:8959
 msgid "Log out"
-msgstr "Вийти"
+msgstr "Вихід"
 
 #: frontend-builder/helpers.php:706 main-modules.php:8992
 msgid "Forgot your password?"
@@ -2061,7 +2057,7 @@ msgstr "Забули свій пароль?"
 
 #: frontend-builder/helpers.php:707 main-modules.php:8971
 msgid "Username"
-msgstr "Ім’я користувача"
+msgstr "Ім'я Користувача"
 
 #: frontend-builder/helpers.php:708 main-modules.php:8972
 msgid "Password"
@@ -2077,7 +2073,7 @@ msgstr ""
 
 #: frontend-builder/helpers.php:712 frontend-builder/helpers.php:719
 msgid "by "
-msgstr " "
+msgstr "від "
 
 #: frontend-builder/helpers.php:715 frontend-builder/helpers.php:826
 #: main-modules.php:17540 main-modules.php:17967
@@ -2086,30 +2082,30 @@ msgstr "Пошук"
 
 #: frontend-builder/helpers.php:716 main-modules.php:17966
 msgid "Search for:"
-msgstr "Пошук:"
+msgstr "Шукати:"
 
 #: frontend-builder/helpers.php:722 main-modules.php:16837
 msgid "Follow"
-msgstr "Підписатись"
+msgstr "Слідкувати"
 
 #: frontend-builder/helpers.php:725 frontend-builder/helpers.php:921
 #: functions.php:3239 functions.php:3933 functions.php:3988 functions.php:4134
 #: functions.php:4256 functions.php:6573
 msgid "Save"
-msgstr "Зберегти"
+msgstr "Записати"
 
 #: frontend-builder/helpers.php:726
 msgid "Save Draft"
-msgstr "Зберегти чорновик"
+msgstr "Зберегти чернетку"
 
 #: frontend-builder/helpers.php:727 frontend-builder/helpers.php:922
 #: functions.php:6573
 msgid "Publish"
-msgstr "Опублікувати"
+msgstr "Оприлюднити"
 
 #: frontend-builder/helpers.php:730
 msgid "Visual"
-msgstr "Візуальний"
+msgstr "Відображення"
 
 #: frontend-builder/helpers.php:740
 msgid "Add Media"
@@ -2117,11 +2113,11 @@ msgstr "Додати медіа"
 
 #: frontend-builder/helpers.php:741
 msgid "Insert Media"
-msgstr "Вставити медіа"
+msgstr "Додати Медіа"
 
 #: frontend-builder/helpers.php:751 functions.php:2385
 msgid "Select"
-msgstr "Обрати"
+msgstr "Вибрати"
 
 #: frontend-builder/helpers.php:754 functions.php:440
 msgid "Update Gallery"
@@ -2161,17 +2157,17 @@ msgstr "Згенерувати З Відео"
 #: functions.php:3214 functions.php:3300 functions.php:3301 functions.php:6795
 #: functions.php:7119
 msgid "Undo"
-msgstr "Скасувати"
+msgstr "Скасуйте"
 
 #: frontend-builder/helpers.php:788 frontend-builder/helpers.php:931
 #: functions.php:3215 functions.php:3292 functions.php:3293 functions.php:6803
 #: functions.php:7126
 msgid "Redo"
-msgstr "Переробляти"
+msgstr "Повернути дію"
 
 #: frontend-builder/helpers.php:789 functions.php:3131
 msgid "Lock"
-msgstr "Замок"
+msgstr "Блокування"
 
 #: frontend-builder/helpers.php:790 functions.php:3130
 msgid "Unlock"
@@ -2179,7 +2175,7 @@ msgstr "Розблокування"
 
 #: frontend-builder/helpers.php:791 functions.php:3100
 msgid "Copy"
-msgstr "Копія"
+msgstr "Скопіюйте"
 
 #: frontend-builder/helpers.php:792 functions.php:3112 functions.php:3118
 msgid "Paste"
@@ -2187,11 +2183,11 @@ msgstr "Вставити"
 
 #: frontend-builder/helpers.php:793
 msgid "Copy Style"
-msgstr "Копіювати стиль"
+msgstr "Скопіювати стиль"
 
 #: frontend-builder/helpers.php:794
 msgid "Paste Style"
-msgstr "Вставити стиль"
+msgstr "Стиль сторінки"
 
 #: frontend-builder/helpers.php:795 functions.php:3140
 msgid "Disable"
@@ -2215,7 +2211,7 @@ msgstr "Ряд"
 #: frontend-builder/helpers.php:801 functions.php:2053 functions.php:2636
 #: functions.php:6459 functions.php:6580 main-structure-elements.php:5
 msgid "Section"
-msgstr "Секція"
+msgstr "Розділ"
 
 #: frontend-builder/helpers.php:803 functions.php:3158
 msgid "Disable Global"
@@ -2243,7 +2239,7 @@ msgstr "Новий Модуль"
 
 #: frontend-builder/helpers.php:811 functions.php:3784
 msgid "New Row"
-msgstr "Новий Рядок"
+msgstr "Новий рядок"
 
 #: frontend-builder/helpers.php:812
 msgid "New Section"
@@ -2260,7 +2256,7 @@ msgstr "Додати в бібліотеку"
 
 #: frontend-builder/helpers.php:815
 msgid "loading..."
-msgstr "загрузка…"
+msgstr "завантаження..."
 
 #: frontend-builder/helpers.php:816 functions.php:6498
 msgid "Regular"
@@ -2269,7 +2265,7 @@ msgstr "Звичайний"
 #: frontend-builder/helpers.php:817 functions.php:6500 main-modules.php:9150
 #: main-modules.php:9780 main-modules.php:14262
 msgid "Fullwidth"
-msgstr "На Всю Ширину"
+msgstr "На всю ширину"
 
 #: frontend-builder/helpers.php:818 functions.php:6499
 msgid "Specialty"
@@ -2352,11 +2348,11 @@ msgstr "Імпортувати макет Divi Builder"
 
 #: frontend-builder/helpers.php:837
 msgid "No File Selected"
-msgstr "Немає обраного файла"
+msgstr "Файл не вибрано"
 
 #: frontend-builder/helpers.php:838
 msgid "Choose File"
-msgstr "Оберіть файл"
+msgstr "Виберіть файл"
 
 #: frontend-builder/helpers.php:841
 msgid "Include General Settings"
@@ -2394,11 +2390,11 @@ msgstr "Зробити цей елемент загальним"
 
 #: frontend-builder/helpers.php:849 functions.php:4045
 msgid "Create New Category"
-msgstr "Створити Нову Категорію:"
+msgstr "Створити Нову Категорію"
 
 #: frontend-builder/helpers.php:850
 msgid "Add To Categories"
-msgstr "Додати До Категорій"
+msgstr "Додати до категорій"
 
 #: frontend-builder/helpers.php:851
 msgid "Here you can add the current item to your Divi Library for later use."
@@ -2414,7 +2410,7 @@ msgstr ""
 
 #: frontend-builder/helpers.php:858
 msgid "General"
-msgstr "Загальний"
+msgstr "Загальні"
 
 #: frontend-builder/helpers.php:863
 msgid "%s Settings"
@@ -2445,8 +2441,7 @@ msgid ""
 "You do not have permission to edit the module, row or section in this split "
 "test."
 msgstr ""
-"У вас немає прав на редагування модуля, рядка або розділу в цьому спліт-"
-"тесті."
+"У вас немає прав на редагування модуля, рядка або розділу в цьому спліт-тесті."
 
 #: frontend-builder/helpers.php:892 functions.php:2498
 msgid ""
@@ -2516,7 +2511,7 @@ msgstr "Зберегти До Бібліотеки"
 
 #: frontend-builder/helpers.php:913
 msgid "Page Settings"
-msgstr "Налаштування сторінки"
+msgstr "Налаштування"
 
 #: frontend-builder/helpers.php:916
 msgid "Expand Settings"
@@ -2528,7 +2523,7 @@ msgstr "Скинути налаштування"
 
 #: frontend-builder/helpers.php:920
 msgid "Save as Draft"
-msgstr "Зберегти як чорновик"
+msgstr "Зберегти як чернетку"
 
 #: frontend-builder/helpers.php:926
 msgid "Expand Modal"
@@ -2556,11 +2551,11 @@ msgstr "Скасувати всі зміни"
 
 #: frontend-builder/helpers.php:934 functions.php:7111
 msgid "Save Changes"
-msgstr "Зберегти зміни"
+msgstr "Зберегти налаштування"
 
 #: frontend-builder/helpers.php:937
 msgid "Go Back"
-msgstr "Повернутися"
+msgstr "Повернутись"
 
 #: frontend-builder/helpers.php:938
 msgid "Decrease Font Size"
@@ -2608,7 +2603,7 @@ msgstr "Ліворуч"
 
 #: frontend-builder/helpers.php:949
 msgid "Justify Text"
-msgstr "За шириною"
+msgstr "Вирівняти текст по ширині"
 
 #: frontend-builder/helpers.php:950
 msgid "List Settings"
@@ -2669,7 +2664,7 @@ msgstr "Перемістити секцію"
 
 #: frontend-builder/helpers.php:967
 msgid "Section Settings"
-msgstr "Налаштування секції"
+msgstr "Налаштування розділу"
 
 #: frontend-builder/helpers.php:968
 msgid "Duplicate Section"
@@ -2685,7 +2680,7 @@ msgstr "Видалити Розділ"
 
 #: frontend-builder/helpers.php:972 functions.php:7009
 msgid "Add New Section"
-msgstr "Додати нову секцію"
+msgstr "Додати новий розділ"
 
 #: frontend-builder/helpers.php:976
 msgid "Move Row"
@@ -2693,7 +2688,7 @@ msgstr "Перемісти рядок"
 
 #: frontend-builder/helpers.php:977
 msgid "Row Settings"
-msgstr "Налаштування рядка"
+msgstr "Настройки рядка"
 
 #: frontend-builder/helpers.php:978
 msgid "Duplicate Row"
@@ -2705,7 +2700,7 @@ msgstr "Зберегти рядок в бібліотеці"
 
 #: frontend-builder/helpers.php:980 functions.php:3529 functions.php:3530
 msgid "Delete Row"
-msgstr "Видалити Рядок"
+msgstr "Видалити рядок"
 
 #: frontend-builder/helpers.php:981 functions.php:6979
 msgid "Change Column Structure"
@@ -2744,8 +2739,7 @@ msgid "Add New Module"
 msgstr "Додати новий модуль"
 
 #: frontend-builder/helpers.php:997
-msgid ""
-"Unsaved changes will be lost if you leave the Divi Builder at this time."
+msgid "Unsaved changes will be lost if you leave the Divi Builder at this time."
 msgstr ""
 "Незбережені зміни втратяться, якщо ви зараз вийдете з режиму створення Divi."
 
@@ -2763,7 +2757,7 @@ msgstr "Модулі"
 
 #: functions.php:108 functions.php:6491 functions.php:6507
 msgid "Rows"
-msgstr "Ряди"
+msgstr "Рядки"
 
 #: functions.php:109 functions.php:6490
 msgid "Sections"
@@ -2779,23 +2773,23 @@ msgstr "Загальний/Індивідуальний"
 
 #: functions.php:115 functions.php:2080
 msgid "Global"
-msgstr "Загальний"
+msgstr "Загальні"
 
 #: functions.php:116
 msgid "not Global"
-msgstr "Індивідуальний"
+msgstr "не Глобальний"
 
 #: functions.php:169 functions.php:186 functions.php:201 functions.php:2232
 msgid "you don't have sufficient permissions to access this page"
-msgstr "у вас немає достатніх дозволів для доступу до цієї сторінки"
+msgstr "ви не маєте достатньо прав для доступу до цієї сторінки"
 
 #: functions.php:296
 msgid "Mine"
-msgstr "Пласт"
+msgstr "Мої"
 
 #: functions.php:422
 msgid "Justified"
-msgstr "Вирівняно за шириною"
+msgstr "За шириною"
 
 #: functions.php:449
 msgid "Select a menu"
@@ -2803,15 +2797,15 @@ msgstr "Вибрати меню"
 
 #: functions.php:574 functions.php:2700
 msgid "No Comments"
-msgstr "Коментарі відсутні"
+msgstr "Коментарів немає"
 
 #: functions.php:578
 msgid "%d Comments"
-msgstr "%d Коментарі"
+msgstr "%d коментарів"
 
 #: functions.php:596 functions.php:2683
 msgid "Posts by %s"
-msgstr "Пости, опубліковані %s"
+msgstr "Записи автора %s"
 
 #: functions.php:1130
 msgid "You currently don't have any projects assigned to a category."
@@ -2819,35 +2813,35 @@ msgstr "Наразі у вас немає жодних проектів, що н
 
 #: functions.php:1248
 msgid "Solid"
-msgstr "Суцільний"
+msgstr "Суцільне"
 
 #: functions.php:1249
 msgid "Dotted"
-msgstr "Крапковий"
+msgstr "Пунктирна (з точок)"
 
 #: functions.php:1250
 msgid "Dashed"
-msgstr "Пунктирний"
+msgstr "Пунктирна (з ліній)"
 
 #: functions.php:1251
 msgid "Double"
-msgstr "Подвійний"
+msgstr "Подвійна"
 
 #: functions.php:1252
 msgid "Groove"
-msgstr "Виділення"
+msgstr "Опуклість"
 
 #: functions.php:1253
 msgid "Ridge"
-msgstr "Межа"
+msgstr "Край"
 
 #: functions.php:1254
 msgid "Inset"
-msgstr "Внутрішня Межа"
+msgstr "З середини"
 
 #: functions.php:1255
 msgid "Outset"
-msgstr "Зовнішня Межа"
+msgstr "Зовні"
 
 #: functions.php:1597
 msgid ""
@@ -2880,8 +2874,8 @@ msgid ""
 "\"sidebar 4\" or \"sidebar 5\" will cause conflicts with this theme"
 msgstr ""
 "Зауважте: Називання вашої зони віджетів \"sidebar 1\", \"sidebar 2\", "
-"\"sidebar 3\", \"sidebar 4\" or \"sidebar 5\" буде причиною конфліктів з "
-"цією темою"
+"\"sidebar 3\", \"sidebar 4\" or \"sidebar 5\" буде причиною конфліктів з цією "
+"темою"
 
 #: functions.php:1945
 msgid "Widget Name"
@@ -2910,10 +2904,9 @@ msgstr "Спеціальна Секція"
 #: main-modules.php:10306 main-modules.php:12646 main-modules.php:13267
 #: main-modules.php:14186 main-modules.php:14258 main-modules.php:18835
 #: main-modules.php:19558 main-modules.php:20114 main-modules.php:20628
-#: main-modules.php:20722 main-modules.php:22688
-#: main-structure-elements.php:153
+#: main-modules.php:20722 main-modules.php:22688 main-structure-elements.php:153
 msgid "Layout"
-msgstr "Макет"
+msgstr "Шаблон"
 
 #: functions.php:2064
 msgid "Template Type"
@@ -2926,12 +2919,11 @@ msgstr "Нові Налаштування Шаблону"
 #: functions.php:2340
 msgid "Fullwidth module can't be used outside of the Fullwidth Section."
 msgstr ""
-"Модуль повної ширини не можна використовувати за межами колонки повної "
-"ширини."
+"Модуль повної ширини не можна використовувати за межами колонки повної ширини."
 
 #: functions.php:2342 functions.php:3219 functions.php:3704
 msgid "Preview"
-msgstr "Попередній перегляд"
+msgstr "Переглянути"
 
 #: functions.php:2344
 msgid ""
@@ -2999,7 +2991,7 @@ msgstr "Продажі"
 
 #: functions.php:2403
 msgid "Total"
-msgstr "Всього"
+msgstr "Загалом"
 
 #: functions.php:2413
 msgid "Unauthorized Action"
@@ -3031,23 +3023,23 @@ msgstr "Оберіть вашу ціль"
 #: functions.php:2422
 msgid ""
 "Congratulations, you have selected a split testing subject! Next you need to "
-"select your goal. After closing this window, please click the section, row "
-"or module that you want to use as your goal. Depending on the element you "
-"choose, Divi will track relevant conversion rates for clicks, reads or "
-"sales. For example, if you select a Call To Action module as your goal, then "
-"Divi will track how variations in your test subjects affect how often "
-"visitors read and click the button in your Call To Action module. The test "
-"subject itself can also be selected as your goal."
+"select your goal. After closing this window, please click the section, row or "
+"module that you want to use as your goal. Depending on the element you "
+"choose, Divi will track relevant conversion rates for clicks, reads or sales. "
+"For example, if you select a Call To Action module as your goal, then Divi "
+"will track how variations in your test subjects affect how often visitors "
+"read and click the button in your Call To Action module. The test subject "
+"itself can also be selected as your goal."
 msgstr ""
 "Вітаємо, ви обрали об'єкт для спліт-тестування! Далі вам необхідно вибрати "
-"вашу ціль. Після закриття цього вікна, будь ласка, натисніть на розділ, "
-"рядок або модуль, який ви хочете використовувати в якості своєї мети. "
-"Залежно від елемента, який ви обирете, Divi буде відслідковувати відповідні "
-"коефіцієнти перерахунку для кліків, переглядів або продажу. Наприклад, якщо "
-"ви вибираєте виклик до модулю дій в якості мети, то Divi буде відстежувати "
-"як зміни в ваших об'єктах тестування впливають на те, як часто відвідувачі "
-"читають і натискають на кнопку у вашому модулі виконання дій. Сам об'єкт "
-"тестування також може бути обраний у якості вашої мети."
+"вашу ціль. Після закриття цього вікна, будь ласка, натисніть на розділ, рядок "
+"або модуль, який ви хочете використовувати в якості своєї мети. Залежно від "
+"елемента, який ви обирете, Divi буде відслідковувати відповідні коефіцієнти "
+"перерахунку для кліків, переглядів або продажу. Наприклад, якщо ви вибираєте "
+"виклик до модулю дій в якості мети, то Divi буде відстежувати як зміни в "
+"ваших об'єктах тестування впливають на те, як часто відвідувачі читають і "
+"натискають на кнопку у вашому модулі виконання дій. Сам об'єкт тестування "
+"також може бути обраний у якості вашої мети."
 
 #: functions.php:2425
 msgid "Configure Subject Variations"
@@ -3091,7 +3083,7 @@ msgstr "Оберіть ціль спліт-тестування"
 
 #: functions.php:2438
 msgid "You need to select a split testing goal first. "
-msgstr "Спочатку вам треба обрати ціль спліт-тестування."
+msgstr "Спочатку вам треба обрати ціль спліт-тестування. "
 
 #: functions.php:2441
 msgid "Select A Different Goal"
@@ -3135,8 +3127,8 @@ msgstr "Не можна зберегти рядок"
 
 #: functions.php:2458 functions.php:2463
 msgid ""
-"You cannot save this row while a split test is running. Please end your "
-"split test and then try again."
+"You cannot save this row while a split test is running. Please end your split "
+"test and then try again."
 msgstr ""
 "Ви не можете зберегти цей рядок поки працює спліт-тестування. Будь ласка, "
 "завершіть ваш спліт-тест, а потім спробуйте ще раз."
@@ -3217,9 +3209,9 @@ msgstr "Не можна клонувати рядок"
 
 #: functions.php:2512
 msgid ""
-"This row cannot be duplicated because it contains a split testing goal. "
-"Goals cannot be duplicated. You must first end your split test before "
-"performing this action."
+"This row cannot be duplicated because it contains a split testing goal. Goals "
+"cannot be duplicated. You must first end your split test before performing "
+"this action."
 msgstr ""
 "Цей рядок не може бути продубльований, оскільки він містить ціль спліт-"
 "тестування. Цілі не можуть бути продубльовані. Ви повинні спочатку завершити "
@@ -3232,8 +3224,8 @@ msgstr "Не можна видалити розділ"
 #: functions.php:2518
 msgid ""
 "This section cannot be removed because it contains a split testing goal. "
-"Goals cannot be deleted. You must first end your split test before "
-"performing this action."
+"Goals cannot be deleted. You must first end your split test before performing "
+"this action."
 msgstr ""
 "Цей розділ не може бути видалений, оскільки він містить ціль спліт-"
 "тестування. Цілі не можуть бути видалені. Ви повинні спочатку завершити ваш "
@@ -3249,9 +3241,9 @@ msgid ""
 "cannot be deleted. You must first end your split test before performing this "
 "action."
 msgstr ""
-"Цей рядок не може бути видалений, оскільки він містить ціль спліт-"
-"тестування. Цілі не можуть бути видалені. Ви повинні спочатку завершити ваш "
-"спліт-тест перед виконанням цієї дії."
+"Цей рядок не може бути видалений, оскільки він містить ціль спліт-тестування. "
+"Цілі не можуть бути видалені. Ви повинні спочатку завершити ваш спліт-тест "
+"перед виконанням цієї дії."
 
 #: functions.php:2528
 msgid ""
@@ -3272,12 +3264,12 @@ msgstr ""
 #: functions.php:2538 functions.php:2545 functions.php:2552 functions.php:2559
 #: functions.php:2566 functions.php:2573
 msgid "ID"
-msgstr "Посвідчення"
+msgstr "ID"
 
 #: functions.php:2539 functions.php:2546 functions.php:2553 functions.php:2560
 #: functions.php:2567 functions.php:2574
 msgid "Subject"
-msgstr "Об'єкт"
+msgstr "Тематика"
 
 #: functions.php:2540 functions.php:2547 functions.php:2554 functions.php:2568
 #: functions.php:2575
@@ -3286,7 +3278,7 @@ msgstr "Враження"
 
 #: functions.php:2541 functions.php:4385
 msgid "Clicks"
-msgstr "Натискання"
+msgstr "Кліки"
 
 #: functions.php:2542
 msgid "Clickthrough Rate"
@@ -3306,7 +3298,7 @@ msgstr "Кількість залишання"
 
 #: functions.php:2556
 msgid "Bounce Rate"
-msgstr "Коефіцієнт відмов"
+msgstr "Показник відмов"
 
 #: functions.php:2561
 msgid "Goal Views"
@@ -3342,19 +3334,19 @@ msgstr "Додано"
 
 #: functions.php:2616
 msgid "Edited"
-msgstr "Редагувати"
+msgstr "Відредаговано"
 
 #: functions.php:2617
 msgid "Removed"
-msgstr "Видалені"
+msgstr "Видалити"
 
 #: functions.php:2618
 msgid "Moved"
-msgstr "Переїхав"
+msgstr "Переміщено"
 
 #: functions.php:2619
 msgid "Expanded"
-msgstr "Розширений"
+msgstr "Розгорнуто"
 
 #: functions.php:2620
 msgid "Collapsed"
@@ -3362,7 +3354,7 @@ msgstr "Звалився"
 
 #: functions.php:2621
 msgid "Locked"
-msgstr "Заблокований"
+msgstr "Заблоковано"
 
 #: functions.php:2622
 msgid "Unlocked"
@@ -3378,15 +3370,15 @@ msgstr "Розмитнений"
 
 #: functions.php:2625 functions.php:5803
 msgid "Enabled"
-msgstr "Включено"
+msgstr "Увімкнений"
 
 #: functions.php:2626 functions.php:5804
 msgid "Disabled"
-msgstr "Інвалідів"
+msgstr "Вимкнено"
 
 #: functions.php:2627
 msgid "Copied"
-msgstr "Скопіював"
+msgstr "Скопійовано"
 
 #: functions.php:2628
 msgid "Cut"
@@ -3418,7 +3410,7 @@ msgstr "Врятував Розділі"
 
 #: functions.php:2642
 msgid "Saved Row"
-msgstr "Збережені Рядка"
+msgstr "Збережений Рядок"
 
 #: functions.php:2644
 msgid "Saved Module"
@@ -3426,7 +3418,7 @@ msgstr "Збережений Модуль"
 
 #: functions.php:2645
 msgid "Page"
-msgstr "Сторінка"
+msgstr "Сторiнки"
 
 #: functions.php:2648 functions.php:3318 functions.php:3319 functions.php:3384
 #: functions.php:3385 functions.php:3395 functions.php:3396 functions.php:3512
@@ -3452,11 +3444,11 @@ msgstr "Конструктор Divi"
 
 #: functions.php:2698
 msgid "% Comments"
-msgstr "% Коментарі"
+msgstr "% Коментарів"
 
 #: functions.php:2713
 msgid "by"
-msgstr " "
+msgstr "від"
 
 #: functions.php:3094 functions.php:3250
 msgid "Rename"
@@ -3476,7 +3468,7 @@ msgstr "Завершити спліт-тест"
 
 #: functions.php:3209 main-modules.php:19739
 msgid "Expand"
-msgstr "Розширювати"
+msgstr "Розгорнути"
 
 #: functions.php:3210
 msgid "Collapse"
@@ -3606,7 +3598,7 @@ msgstr "Зберегти Й Додати До Бібліотеки"
 
 #: functions.php:4024
 msgid "Add To Categories:"
-msgstr "Додати До Категорій:"
+msgstr "Додати до категорії:"
 
 #: functions.php:4052
 msgid "Include General settings"
@@ -3650,7 +3642,7 @@ msgstr "Примітка: цей процес не може бути скасо�
 
 #: functions.php:4192
 msgid "Ok"
-msgstr "Ок"
+msgstr "Гаразд"
 
 #: functions.php:4206 functions.php:4238
 msgid "An Error Occurred"
@@ -3674,8 +3666,8 @@ msgstr "Встановити статус переможця"
 
 #: functions.php:4270
 msgid ""
-"You were using global item as split testing winner. Consequently, you have "
-"to choose between:"
+"You were using global item as split testing winner. Consequently, you have to "
+"choose between:"
 msgstr ""
 "Ви використовували глобальний елемент в якості переможця спліт-тестування. "
 "Отже, ви повинні вибрати між:"
@@ -3685,8 +3677,8 @@ msgid ""
 "Save winner as global item (selected subject will be synced and your global "
 "item will be updated in the Divi Library)"
 msgstr ""
-"Зберегти переможця як глобальний елемент (обраний об'єкт буде "
-"синхронізований і ваш глобальний елемент буде оновлено в бібліотеці Divi)"
+"Зберегти переможця як глобальний елемент (обраний об'єкт буде синхронізований "
+"і ваш глобальний елемент буде оновлено в бібліотеці Divi)"
 
 #: functions.php:4272
 msgid ""
@@ -3711,7 +3703,7 @@ msgstr "Минулий місяць"
 
 #: functions.php:4333
 msgid "All Time"
-msgstr "Весь період"
+msgstr "За весь час"
 
 #: functions.php:4334
 msgid "Summary &amp; Data"
@@ -3801,7 +3793,7 @@ msgstr "Планшет"
 #: main-structure-elements.php:843 main-structure-elements.php:2356
 #: main-structure-elements.php:3430
 msgid "Desktop"
-msgstr "Робочий стіл"
+msgstr "Настільний ПК"
 
 #: functions.php:4496
 msgid "Smartphone"
@@ -3821,7 +3813,7 @@ msgstr "Видалення з'єднання..."
 
 #: functions.php:4972
 msgid "Done"
-msgstr "Зроблено"
+msgstr "Готово"
 
 #: functions.php:5002
 msgid "Step 1:"
@@ -3853,11 +3845,11 @@ msgstr "Видалити з'єднання"
 
 #: functions.php:5072
 msgid "Read more"
-msgstr "Детальніше"
+msgstr "Докладніше"
 
 #: functions.php:5514
 msgid "Theme Customizer"
-msgstr "Модуль Налаштування Теми"
+msgstr "Налаштовувач теми"
 
 #: functions.php:5519
 msgid "Module Customizer"
@@ -3873,7 +3865,7 @@ msgstr "В Опціях Плагіна"
 
 #: functions.php:5535
 msgid "Theme Options"
-msgstr "Опції Теми"
+msgstr "Параметри теми"
 
 #: functions.php:5540
 msgid "Divi Library"
@@ -3889,7 +3881,7 @@ msgstr "Додати/Видалити Елемент"
 
 #: functions.php:5557
 msgid "Edit Item"
-msgstr "Редагування Елемента"
+msgstr "Редагувати елемент"
 
 #: functions.php:5561
 msgid "Move Item"
@@ -3929,7 +3921,7 @@ msgstr "Налаштування дизайну"
 
 #: functions.php:5615
 msgid "Advanced Settings"
-msgstr "Додаткові Параметри"
+msgstr "Всі налаштування"
 
 #: functions.php:5621
 msgid "Settings Types"
@@ -3941,7 +3933,7 @@ msgstr "Редагування Кольорів"
 
 #: functions.php:5628
 msgid "Edit Content"
-msgstr "Редагування Вмісту"
+msgstr "Відредагуйте вміст"
 
 #: functions.php:5632
 msgid "Edit Fonts"
@@ -3970,9 +3962,9 @@ msgstr "Зберегти Диви Ролей"
 #: functions.php:5766
 msgid ""
 "Using the Divi Role Editor, you can limit the types of actions that can be "
-"taken by WordPress users of different roles. This is a great way to limit "
-"the functionality available to your customers or guest authors to ensure "
-"that they only have the necessary options available to them."
+"taken by WordPress users of different roles. This is a great way to limit the "
+"functionality available to your customers or guest authors to ensure that "
+"they only have the necessary options available to them."
 msgstr ""
 "Використовуючи Диви роль редактора, ви можете обмежити тип дій, які можуть "
 "бути прийняті на WordPress користувачів різних ролей. Це відмінний спосіб, "
@@ -3993,7 +3985,7 @@ msgstr ""
 
 #: functions.php:5838
 msgid "no"
-msgstr "немає"
+msgstr "ні"
 
 #. translators: 1: date, 2: time
 #: functions.php:6114
@@ -4010,7 +4002,7 @@ msgstr "Відповісти"
 
 #: functions.php:6129
 msgid "Your comment is awaiting moderation."
-msgstr "Ваш коментар очікує на модерацію."
+msgstr "Ваш коментар очікує перевірку."
 
 #: functions.php:6272 functions.php:6827
 msgid "Exit Visual Builder"
@@ -4031,24 +4023,24 @@ msgstr "Ласкаво просимо до Divi Конструктора"
 #: functions.php:6458 functions.php:6579
 msgid ""
 "%10$sBuilding beautiful pages is a breeze using the Visual Builder. To get "
-"started, add a new %1$s to your page by pressing the %2$s button. Next, add "
-"a %3$s of columns inside your section by pressing the %4$s button. Finally, "
+"started, add a new %1$s to your page by pressing the %2$s button. Next, add a "
+"%3$s of columns inside your section by pressing the %4$s button. Finally, "
 "start adding some content %5$s inside your columns by pressing the %6$s "
 "button. You can customize the design and content of any element on the page "
-"by pressing the %7$s button. If you ever need help, visit our %9$s page for "
-"a full list of tutorials."
+"by pressing the %7$s button. If you ever need help, visit our %9$s page for a "
+"full list of tutorials."
 msgstr ""
 "%10$sЗ візуальним конструктором будувати гарні сторінки простіше простого. "
 "Щоб розпочати додайте новий %1$s до вашої сторінки, натиснувши кнопку %2$s. "
 "Далі, додайте %3$s колонок всередині вашої секції, натиснувши кнопку %4$s. "
-"Нарешті, розпочніть додавати певний контент %5$s до ваших колонок, "
-"натиснувши кнопку %6$s. Ви можете змінити дизайн та контент будь-якого "
-"елемента сторінки, натиснувши кнопку %7$s. Якщо вам колись знадобиться "
-"допомога, відвідайте нашу сторінку %9$s з повним переліком інструкцій."
+"Нарешті, розпочніть додавати певний контент %5$s до ваших колонок, натиснувши "
+"кнопку %6$s. Ви можете змінити дизайн та контент будь-якого елемента "
+"сторінки, натиснувши кнопку %7$s. Якщо вам колись знадобиться допомога, "
+"відвідайте нашу сторінку %9$s з повним переліком інструкцій."
 
 #: functions.php:6467 functions.php:6588
 msgid "Documentation"
-msgstr "Документація"
+msgstr "Документатція"
 
 #: functions.php:6475 functions.php:6596
 msgid "Start Building"
@@ -4064,19 +4056,18 @@ msgstr "Завантажити новий шаблон"
 
 #: functions.php:6480
 msgid ""
-"Loading pre-made layouts is a great way to jump-start your new page. The "
-"Divi Builder comes with dozens of layouts to choose from, and you can find "
-"lots of great free layouts online too. You can save your favorite layouts to "
-"the Divi Library and load them on new pages or share them with the "
-"community. Click the highlighted button to open the layouts menu and select "
-"a pre-made layout."
+"Loading pre-made layouts is a great way to jump-start your new page. The Divi "
+"Builder comes with dozens of layouts to choose from, and you can find lots of "
+"great free layouts online too. You can save your favorite layouts to the Divi "
+"Library and load them on new pages or share them with the community. Click "
+"the highlighted button to open the layouts menu and select a pre-made layout."
 msgstr ""
 "Завантаження готових шаблонів може дати чудовий швидкий старт вашій новій "
-"сторінці.  Divi Конструктор має десятки шаблонів, з яких можна вибирати, і "
-"ви так само можете знайти багато чудових безкоштовних шаблонів онлайн. Ви "
-"можете зберегти ваші улюблені шаблони до бібліотеки Divi та завантажити їх "
-"на нові сторінки, або поділитись ними зі спільнотою.Клацніть на підсвічену "
-"кнопку щоб відкрити меню шаблонів та обрати попередньо підготовлений шаблон."
+"сторінці.  Divi Конструктор має десятки шаблонів, з яких можна вибирати, і ви "
+"так само можете знайти багато чудових безкоштовних шаблонів онлайн. Ви можете "
+"зберегти ваші улюблені шаблони до бібліотеки Divi та завантажити їх на нові "
+"сторінки, або поділитись ними зі спільнотою.Клацніть на підсвічену кнопку щоб "
+"відкрити меню шаблонів та обрати попередньо підготовлений шаблон."
 
 #: functions.php:6483
 msgid "Choose A Design To Start With"
@@ -4104,10 +4095,10 @@ msgid ""
 "Modules. Sections are the largest organizational element. Click the "
 "highlighted button to add a new section to the page."
 msgstr ""
-"Тепер, коли ваш готовий шаблон було завантажено, ми можемо розпочати "
-"додавати новий контент до сторінки. Divi конструктор організує контент, "
-"використовуючи %1$s, %2$s та Модулі. Секції є найбільшими організаційними "
-"елементами.Клацніть на підсвічену кнопку щоб додати нову секцію на сторінку."
+"Тепер, коли ваш готовий шаблон було завантажено, ми можемо розпочати додавати "
+"новий контент до сторінки. Divi конструктор організує контент, використовуючи "
+"%1$s, %2$s та Модулі. Секції є найбільшими організаційними елементами."
+"Клацніть на підсвічену кнопку щоб додати нову секцію на сторінку."
 
 #: functions.php:6495
 msgid "Choose A Section Type"
@@ -4118,15 +4109,15 @@ msgid ""
 "The Divi Builder has three different section types. %1$s sections conform to "
 "the standard width of your page layout. %2$s Sections can be used to create "
 "advanced sidebar layouts. %3$s sections extend the full width of your page "
-"and can be used with fullwidth modules. Click the “Regular” section button "
-"to add a new section to your page."
+"and can be used with fullwidth modules. Click the “Regular” section button to "
+"add a new section to your page."
 msgstr ""
 "Divi конструктор має три різних типи секцій. %1$s секції відповідають "
 "стандартній ширині шаблона вашої сторінки.  %2$s секції можуть бути "
 "використані для того, щоб створювати просунуті шаблони з боковими панелями. "
 "%3$s секції розширюють повну ширину вашої сторінки та можуть "
-"використовуватись з широкоформатними модулями. Клацніть на кнопку â"
-"€œЗвичайнаâ€ секція щоб додати нову секцію до вашої сторнки."
+"використовуватись з широкоформатними модулями. Клацніть на кнопку â€œЗвичайнаâ"
+"€ секція щоб додати нову секцію до вашої сторнки."
 
 #: functions.php:6504
 msgid "Add A New Row Of Columns"
@@ -4149,11 +4140,10 @@ msgstr "Додайте модуль до колонки"
 
 #: functions.php:6512
 msgid ""
-"Within each column you can add one or more Modules. A module is basic "
-"content element. The Divi Builder comes with over 40 different content "
-"elements to choose from, such as Images, Videos, Text, and Buttons. Click "
-"the highlighted Blurb button to add a new Blurb module to the first column "
-"in your row."
+"Within each column you can add one or more Modules. A module is basic content "
+"element. The Divi Builder comes with over 40 different content elements to "
+"choose from, such as Images, Videos, Text, and Buttons. Click the highlighted "
+"Blurb button to add a new Blurb module to the first column in your row."
 msgstr ""
 "В межах кожної колонки ви можете додавати один або більше модулів. Модуль є "
 "базовим елементом контенту. Divi конструктор поставляється разом з понад 40 "
@@ -4169,19 +4159,19 @@ msgstr "Змінити налаштування модуля"
 msgid ""
 "Each Module comes with various settings. These settings are separated into "
 "three tabs: Content, Design and Advanced. Inside the content tab you can "
-"modify the module content elements, such as text and images. If you need "
-"more control over the appearance of your module, head over to the Design "
-"tab. For more advanced modifications, such as custom CSS and HTML "
-"attributes, explore the Advanced tab. Try adjusting the Title of your blurb "
-"by clicking into the highlighted field."
+"modify the module content elements, such as text and images. If you need more "
+"control over the appearance of your module, head over to the Design tab. For "
+"more advanced modifications, such as custom CSS and HTML attributes, explore "
+"the Advanced tab. Try adjusting the Title of your blurb by clicking into the "
+"highlighted field."
 msgstr ""
 "Кожен модуль має різноманітні налаштування. Ці налаштування поділені на три "
-"вкладки: Контент, Дизайн та Розширені.  Всередині вкладки контенту, ви "
-"можете змінювати елементи контенту модуля, такі як текст або картинки.  Якщо "
-"ви потребуєте більше контролю над зовнішнім виглядом вашого модуля, "
-"переходьте до вкладки Дизайн. Для більш суттєвих змін таких як налаштування "
-"CSS та HTML атрибутів, дослідіть вкладку Розширені. Спробуйте підлаштувати "
-"назву вашої анотації, натиснувши на підсвіченому полі."
+"вкладки: Контент, Дизайн та Розширені.  Всередині вкладки контенту, ви можете "
+"змінювати елементи контенту модуля, такі як текст або картинки.  Якщо ви "
+"потребуєте більше контролю над зовнішнім виглядом вашого модуля, переходьте "
+"до вкладки Дизайн. Для більш суттєвих змін таких як налаштування CSS та HTML "
+"атрибутів, дослідіть вкладку Розширені. Спробуйте підлаштувати назву вашої "
+"анотації, натиснувши на підсвіченому полі."
 
 #: functions.php:6519
 msgid "Accept Or Discard Your Changes"
@@ -4201,7 +4191,7 @@ msgstr ""
 
 #: functions.php:6523
 msgid "Hover To Access Action Buttons"
-msgstr "Проведіть над цим, щоб отримати доступ до кнопки Дії."
+msgstr "Проведіть над цим, щоб отримати доступ до кнопки Дії"
 
 #: functions.php:6524
 msgid ""
@@ -4211,8 +4201,8 @@ msgid ""
 "blurb module that you just added to the page."
 msgstr ""
 "Кожен раз, як ви проводите курсором над Секцією, Рядом або модулем у Divi "
-"конструкторі, з'являється кнопка дії.  Ці кнопки можуть використовуватись "
-"щоб переміщувати, змінювати, подвоювати або видаляти контент. Натисніть на "
+"конструкторі, з'являється кнопка дії.  Ці кнопки можуть використовуватись щоб "
+"переміщувати, змінювати, подвоювати або видаляти контент. Натисніть на "
 "підсвічену кнопку â€œподвоїтиâ€ щоб подвоїти модуль анотації, який ви тільки "
 "що додали до вашої сторінки."
 
@@ -4247,8 +4237,8 @@ msgstr ""
 "В додаток до дій, що з'являються при проведенні над, додаткові опції можна "
 "відкрити клацнувши правою кнопкою миші або Cmd + натискання на будь-якому "
 "модулі, ряді або секції. Використовуючи меню правої кнопки, яке з'явилось, "
-"клацніть на підсвічену кнопку  â€œКопіювати модульâ€ щоб скопіювати "
-"анотацію, яку ви тільки що перемістили."
+"клацніть на підсвічену кнопку  â€œКопіювати модульâ€ щоб скопіювати анотацію, "
+"яку ви тільки що перемістили."
 
 #: functions.php:6535
 msgid "Paste Your Copied Module"
@@ -4278,11 +4268,10 @@ msgid ""
 "more. To access a row’s settings, hover over the row and click the "
 "highlighted options button."
 msgstr ""
-"Кожен ряд та секція мають власний набір опцій, що може використовуватись, "
-"щоб налаштувати зовнішній вигляд елементуâ€™.Ви можете налаштувати його "
-"ширину, підкладку, фон і багато іншого.  Щоб отримати доступ до налаштувань "
-"ряда, â€™ проведіть курсором над рядом та клацніть на підсвічену кнопку "
-"опції."
+"Кожен ряд та секція мають власний набір опцій, що може використовуватись, щоб "
+"налаштувати зовнішній вигляд елементуâ€™.Ви можете налаштувати його ширину, "
+"підкладку, фон і багато іншого.  Щоб отримати доступ до налаштувань ряда, â€™ "
+"проведіть курсором над рядом та клацніть на підсвічену кнопку опції."
 
 #: functions.php:6543
 msgid "Adjust Your Row Setting"
@@ -4328,9 +4317,9 @@ msgstr "Попередньо переглянути вашу сторінку н
 #: functions.php:6556
 msgid ""
 "While editing your page, it’s easy to see what your design will look like on "
-"mobile devices. You can also make adjustments to your module, row and "
-"section settings for each mobile breakpoint. Click the highlighted “Tablet” "
-"icon to enter Tablet preview mode. "
+"mobile devices. You can also make adjustments to your module, row and section "
+"settings for each mobile breakpoint. Click the highlighted “Tablet” icon to "
+"enter Tablet preview mode. "
 msgstr ""
 "Редагуючи сторінку, ви можете â€™ легко побачити, як ваш дизайн виглядатиме "
 "на мобільних пристроях. Ви так само можете редагувати налаштування ваших "
@@ -4360,9 +4349,8 @@ msgstr "Отримати доступ до історії редагувань"
 msgid ""
 "Every change you make while editing your page is saved in your editing "
 "history. You can navigate backwards and forwards through time to any point "
-"during your current editing session, as well as undo and redo recent "
-"changes. Click the highlighted History button to access your editing "
-"history. "
+"during your current editing session, as well as undo and redo recent changes. "
+"Click the highlighted History button to access your editing history. "
 msgstr ""
 "Кожна зміна, яку ви робите під час редагування сторінки, зберігається в "
 "історії редагування. Ви можете проходити назад і вперед у часі до будь-якої "
@@ -4584,7 +4572,7 @@ msgstr "Побудувати для будь-чого"
 
 #: layouts.php:77
 msgid "Built For"
-msgstr "Побудувати для"
+msgstr "Побудований для"
 
 #: layouts.php:78
 msgid "Global Layout"
@@ -4592,7 +4580,7 @@ msgstr "Загальний макет"
 
 #: layouts.php:90
 msgid "Standard"
-msgstr "Стандарт"
+msgstr "Стандартний"
 
 #: layouts.php:344
 msgid "Divi Builder Demo"
@@ -4624,7 +4612,7 @@ msgstr "Домашня Сторінка Розширена"
 
 #: layouts.php:406
 msgid "Page Fullwidth"
-msgstr "Сторінка На Всю Ширину"
+msgstr "Сторінка Повна ширина"
 
 #: layouts.php:440
 msgid "Page Right Sidebar"
@@ -4684,11 +4672,11 @@ msgstr "Сторінка Заставка"
 
 #: layouts.php:628
 msgid "Maintenance Mode"
-msgstr "Режим Обслуговування"
+msgstr "Режим технічного обслуговування"
 
 #: layouts.php:637
 msgid "Coming Soon"
-msgstr "Незабаром"
+msgstr "Скоро"
 
 #: layouts.php:645
 msgid "Landing Page"
@@ -4696,19 +4684,19 @@ msgstr "Сторінка-вітрина"
 
 #: layouts.php:654
 msgid "About Me"
-msgstr "Про Мене"
+msgstr "Про мене"
 
 #: layouts.php:663
 msgid "About Us"
-msgstr "Про Нас"
+msgstr "Про нас"
 
 #: layouts.php:672
 msgid "Contact Us"
-msgstr "Зв’яжіться з Нами"
+msgstr "Зв'язатися з нами"
 
 #: layouts.php:688
 msgid "Our Team"
-msgstr "Наша Команда"
+msgstr "Наша команда"
 
 #: layouts.php:801
 msgid "Creative Agency"
@@ -4738,9 +4726,8 @@ msgstr "Вирівнювання"
 
 #: main-modules.php:60 main-modules.php:1852 main-modules.php:2116
 #: main-modules.php:6951 main-modules.php:13549 main-modules.php:17588
-#: main-modules.php:18843 main-modules.php:21349
-#: main-structure-elements.php:155 main-structure-elements.php:1421
-#: main-structure-elements.php:2953
+#: main-modules.php:18843 main-modules.php:21349 main-structure-elements.php:155
+#: main-structure-elements.php:1421 main-structure-elements.php:2953
 msgid "Sizing"
 msgstr "Розташування за величиною"
 
@@ -4779,7 +4766,7 @@ msgstr "Знизу Вгору"
 
 #: main-modules.php:97 main-modules.php:13892 main-modules.php:21783
 msgid "Fade In"
-msgstr "Поступова Поява"
+msgstr "Виникнення"
 
 #: main-modules.php:98 main-modules.php:2338 main-modules.php:13891
 #: main-modules.php:21784
@@ -4788,7 +4775,7 @@ msgstr "Без Анімації"
 
 #: main-modules.php:122 main-modules.php:13877 main-modules.php:21650
 msgid "Image URL"
-msgstr "URL Зображення"
+msgstr "Посилання зображення"
 
 #: main-modules.php:126 main-modules.php:1144 main-modules.php:1639
 #: main-modules.php:2306 main-modules.php:5707 main-modules.php:7645
@@ -4828,7 +4815,7 @@ msgstr ""
 
 #: main-modules.php:148 main-modules.php:21676
 msgid "Image Title Text"
-msgstr "Текст Назви Зображення"
+msgstr "Атрибут title"
 
 #: main-modules.php:155 main-modules.php:19188 main-modules.php:21683
 msgid "This defines the HTML Title text."
@@ -4844,13 +4831,13 @@ msgid ""
 "if you select to open the image in Lightbox, url options below will be "
 "ignored."
 msgstr ""
-"Тут ви можете вибрати, чи відкривати зображення в Lightbox. Зауважте: якщо "
-"ви вирішите відкривати зображення в Lightbox, опції URL нижче будуть "
+"Тут ви можете вибрати, чи відкривати зображення в Lightbox. Зауважте: якщо ви "
+"вирішите відкривати зображення в Lightbox, опції URL нижче будуть "
 "проігноровані."
 
 #: main-modules.php:176 main-modules.php:21704
 msgid "Link URL"
-msgstr "Посилання URL"
+msgstr "URL посилання"
 
 #: main-modules.php:183 main-modules.php:21711
 msgid ""
@@ -4884,7 +4871,7 @@ msgstr "Тут ви можете вибрати, чи відкривати ва�
 
 #: main-modules.php:199 main-modules.php:21727
 msgid "Image Overlay"
-msgstr "Накладання зображення"
+msgstr "Накладення зображення"
 
 #: main-modules.php:214 main-modules.php:21742
 msgid ""
@@ -5114,7 +5101,7 @@ msgstr "Слайдер"
 
 #: main-modules.php:684 main-modules.php:14270
 msgid "Toggle between the various blog layout types."
-msgstr "Перемикати різні типи макетів блогу"
+msgstr "Перемикати різні типи макетів блогу."
 
 #: main-modules.php:706
 msgid "Images Number"
@@ -5130,11 +5117,11 @@ msgstr "Орієнтація мініатюри"
 
 #: main-modules.php:718
 msgid "Landscape"
-msgstr "Ландшафт"
+msgstr "Пейзаж"
 
 #: main-modules.php:719 main-modules.php:5608
 msgid "Portrait"
-msgstr "Портрет"
+msgstr "Портретний"
 
 #: main-modules.php:723
 msgid "Choose the orientation of the gallery thumbnails."
@@ -5142,7 +5129,7 @@ msgstr "Оберіть орієнтацію галереї мініатюр."
 
 #: main-modules.php:724
 msgid "Note"
-msgstr "Примітка"
+msgstr "Сповіщення"
 
 #: main-modules.php:725
 msgid "If this option appears to have no effect, you might need to"
@@ -5152,10 +5139,7 @@ msgstr ""
 
 #: main-modules.php:726
 msgid "regenerate your thumbnails"
-msgstr ""
-"Укажіть значення атрибута <em>rel</em> Вашого посилання. Атрибут <em>rel</"
-"em> визначає зв'язок між поточним документом і документом, на який Ви "
-"посилаєтеся."
+msgstr "регенерувати ваші мініатюри"
 
 #: main-modules.php:736
 msgid "Show Title and Caption"
@@ -5187,7 +5171,7 @@ msgstr "Увімкнути чи вимкнути поділ на сторінк�
 #: main-modules.php:19664 main-modules.php:20784 main-modules.php:22276
 #: main-modules.php:23078
 msgid "Dark"
-msgstr "Темний"
+msgstr "Темна"
 
 #: main-modules.php:764 main-modules.php:1429 main-modules.php:1658
 #: main-modules.php:1899 main-modules.php:2350 main-modules.php:3925
@@ -5231,8 +5215,8 @@ msgid ""
 "rotation speed below if desired."
 msgstr ""
 "Якщо ви хочете, щоб слайди змінювалися автоматично, щоб гостю не треба було "
-"натискати на наступну кнопку, увімкніть цю опцію і налаштуйте швидкість "
-"зміни за бажанням."
+"натискати на наступну кнопку, увімкніть цю опцію і налаштуйте швидкість зміни "
+"за бажанням."
 
 #: main-modules.php:790 main-modules.php:3152 main-modules.php:4901
 #: main-modules.php:20238 main-modules.php:23190
@@ -5257,7 +5241,7 @@ msgstr "Колір Значка при Збільшенні"
 
 #: main-modules.php:1096
 msgid "Play Icon"
-msgstr "Іконка програвання"
+msgstr "Іконка програти"
 
 #: main-modules.php:1103
 msgid "Video Icon"
@@ -5278,11 +5262,11 @@ msgstr "Встановити Як Відео"
 
 #: main-modules.php:1119 main-modules.php:1615
 msgid ""
-"Upload your desired video in .MP4 format, or type in the URL to the video "
-"you would like to display"
+"Upload your desired video in .MP4 format, or type in the URL to the video you "
+"would like to display"
 msgstr ""
 "Завантажте потрібне відео у форматі .MP4 або введіть URL на відео, яке ви "
-"хочете показати."
+"хочете показати"
 
 #: main-modules.php:1126 main-modules.php:1624
 msgid "Video Webm"
@@ -5294,8 +5278,8 @@ msgstr "Вибрати .MP4  відеофайл"
 
 #: main-modules.php:1133 main-modules.php:1631
 msgid ""
-"Upload the .WEBM version of your video here. All uploaded videos should be "
-"in both .MP4 .WEBM formats to ensure maximum compatibility in all browsers."
+"Upload the .WEBM version of your video here. All uploaded videos should be in "
+"both .MP4 .WEBM formats to ensure maximum compatibility in all browsers."
 msgstr ""
 "Завантажте .WEBM версію вашого відео тут. Всі завантажені відео мають бути у "
 "форматах .MP4 .WEBM, щоб забезпечити максимальну сумісність у всіх браузерах."
@@ -5327,7 +5311,7 @@ msgstr "Колір кнопок управління"
 
 #: main-modules.php:1375
 msgid "Play Button"
-msgstr "Кнопка Відтворення"
+msgstr "Кнопка відтворення"
 
 #: main-modules.php:1379
 msgid "Thumbnail Item"
@@ -5343,20 +5327,20 @@ msgstr "Показати Накладання Зображення на Голо
 
 #: main-modules.php:1396
 msgid "Hide"
-msgstr "Приховати"
+msgstr "Не відображати"
 
 #: main-modules.php:1397
 msgid "Show"
-msgstr "Показати"
+msgstr "Показувати"
 
 #: main-modules.php:1400
 msgid ""
-"This option will cover the player UI on the main video. This image can "
-"either be uploaded in each video setting or auto-generated by Divi."
+"This option will cover the player UI on the main video. This image can either "
+"be uploaded in each video setting or auto-generated by Divi."
 msgstr ""
 "Цей параметр дозволяє покрити інтерфейс програвача головного відео. Це "
-"зображення можна завантажити у налаштуваннях кожного відео або "
-"автогенерувати з Divi."
+"зображення можна завантажити у налаштуваннях кожного відео або автогенерувати "
+"з Divi."
 
 #: main-modules.php:1403 main-modules.php:3114 main-modules.php:20200
 msgid "Arrows"
@@ -5365,7 +5349,7 @@ msgstr "Стрілки"
 #: main-modules.php:1407 main-modules.php:3118 main-modules.php:4685
 #: main-modules.php:20204 main-modules.php:22974
 msgid "Show Arrows"
-msgstr "Показати Стрілки"
+msgstr "Показати стрілки"
 
 #: main-modules.php:1408 main-modules.php:3119 main-modules.php:20205
 msgid "Hide Arrows"
@@ -5378,7 +5362,7 @@ msgstr "Цей параметр вмикає і вимикає навігаці�
 
 #: main-modules.php:1414
 msgid "Slider Controls"
-msgstr "Керування Слайдером"
+msgstr "Керування слайдером"
 
 #: main-modules.php:1418
 msgid "Use Thumbnail Track"
@@ -5420,7 +5404,7 @@ msgstr "Нове Відео"
 
 #: main-modules.php:1569
 msgid "Video Settings"
-msgstr "Налаштування Відео"
+msgstr "Налаштування відео"
 
 #: main-modules.php:1589
 msgid "Arrows Color"
@@ -5438,8 +5422,7 @@ msgid "Slider Arrows Color"
 msgstr "Колір Стрілок Слайдера"
 
 #: main-modules.php:1663
-msgid ""
-"This setting will make your slider arrows either light or dark in color."
+msgid "This setting will make your slider arrows either light or dark in color."
 msgstr ""
 "Цей параметр зробить ваші стрілки слайдера світлими або темними на колір."
 
@@ -5450,7 +5433,7 @@ msgstr ""
 #: main-modules.php:14199 main-modules.php:15795 main-modules.php:20134
 #: main-modules.php:22714
 msgid "Header"
-msgstr "Шапка"
+msgstr "Верхня частина"
 
 #: main-modules.php:1903 main-modules.php:13912 main-modules.php:17662
 #: main-modules.php:18190 main-modules.php:18992 main-modules.php:19669
@@ -5482,7 +5465,7 @@ msgstr "Тут ви можете створити наповнення моду�
 #: main-modules.php:1922 main-modules.php:7095 main-modules.php:17731
 #: main-modules.php:21372
 msgid "Max Width"
-msgstr "Максимальна Ширина"
+msgstr "Максимальна ширина"
 
 #: main-modules.php:2046
 msgid "Blurb"
@@ -5516,8 +5499,7 @@ msgstr "Контент Анотації"
 
 #: main-modules.php:2192
 msgid "The title of your blurb will appear in bold below your blurb image."
-msgstr ""
-"Назва вашої рекламки з’явиться жирним шрифтом під зображенням рекламки."
+msgstr "Назва вашої рекламки з’явиться жирним шрифтом під зображенням рекламки."
 
 #: main-modules.php:2196
 msgid "Url"
@@ -5527,8 +5509,7 @@ msgstr "Url"
 msgid ""
 "If you would like to make your blurb a link, input your destination URL here."
 msgstr ""
-"Якщо ви хочете зробити вашу рекламку посиланням, введіть сюди URL "
-"призначення."
+"Якщо ви хочете зробити вашу рекламку посиланням, введіть сюди URL призначення."
 
 #: main-modules.php:2214
 msgid "Use Icon"
@@ -5542,7 +5523,7 @@ msgstr "Тут ви можете вибрати, чи використовува
 #: main-modules.php:11796 main-modules.php:13791 main-modules.php:16418
 #: main-modules.php:16623 main-modules.php:19035
 msgid "Icon"
-msgstr "Значок"
+msgstr "Іконка"
 
 #: main-modules.php:2241
 msgid "Choose an icon to display with your blurb."
@@ -5551,7 +5532,7 @@ msgstr "Виберіть іконку для вашої рекламки."
 #: main-modules.php:2245 main-modules.php:11500 main-modules.php:11748
 #: main-modules.php:11911 main-modules.php:13950 main-modules.php:16777
 msgid "Icon Color"
-msgstr "Колір Іконки"
+msgstr "Колір значка"
 
 #: main-modules.php:2247
 msgid "Here you can define a custom color for your icon."
@@ -5568,7 +5549,7 @@ msgstr "Тут ви можете вибрати, чи показувати ік�
 
 #: main-modules.php:2270 main-modules.php:11035
 msgid "Circle Color"
-msgstr "Колір Кола"
+msgstr "Колір кола"
 
 #: main-modules.php:2272
 msgid "Here you can define a custom color for the icon circle."
@@ -5584,7 +5565,7 @@ msgstr "Тут ви можете вибрати, чи показувати ме�
 
 #: main-modules.php:2294
 msgid "Circle Border Color"
-msgstr "Колір Меж Кола"
+msgstr "Колір межі кола"
 
 #: main-modules.php:2296
 msgid "Here you can define a custom color for the icon circle border."
@@ -5596,7 +5577,7 @@ msgstr "Завантажте зображення для верхньої час
 
 #: main-modules.php:2313
 msgid "Image Alt Text"
-msgstr "Альтернативний Текст Зображення"
+msgstr "Атрибут alt"
 
 #: main-modules.php:2316
 msgid "Define the HTML ALT text for your image here."
@@ -5663,7 +5644,7 @@ msgstr "Колір Фону Неактивної Вкладки"
 
 #: main-modules.php:2846
 msgid "New Tab"
-msgstr "Нова Вкладка"
+msgstr "Нова вкладка"
 
 #: main-modules.php:2847
 msgid "Tab Settings"
@@ -5671,12 +5652,12 @@ msgstr "Налаштування Вкладки"
 
 #: main-modules.php:2914 main-modules.php:16315
 msgid "The title will be used within the tab button for this tab."
-msgstr "Заголовок буде використаний на кнопці вкладки"
+msgstr "Заголовок буде використаний на кнопці вкладки."
 
 #: main-modules.php:2971 main-modules.php:3516 main-modules.php:19740
 #: main-modules.php:20057
 msgid "Slide"
-msgstr "Слайд"
+msgstr "Ковзання"
 
 #: main-modules.php:3071 main-modules.php:3637 main-modules.php:4595
 #: main-modules.php:6214 main-modules.php:6671 main-modules.php:6987
@@ -5715,7 +5696,7 @@ msgstr "Активне Переключення Слайдів"
 #: main-modules.php:3101 main-modules.php:3671 main-modules.php:3825
 #: main-modules.php:4632 main-modules.php:20187 main-modules.php:22786
 msgid "Slide Image"
-msgstr "Зображення Слайду"
+msgstr "Зображення слайду"
 
 #: main-modules.php:3105 main-modules.php:4636 main-modules.php:20191
 #: main-modules.php:22790
@@ -5724,7 +5705,7 @@ msgstr "Стрілки прокрутки"
 
 #: main-modules.php:3125 main-modules.php:4696 main-modules.php:22985
 msgid "Show Controls"
-msgstr "Показати керування"
+msgstr "Показати управління"
 
 #: main-modules.php:3133 main-modules.php:4704 main-modules.php:22993
 msgid ""
@@ -5739,8 +5720,7 @@ msgstr "Продовжити Автоматичне слайд при навед
 
 #: main-modules.php:3171 main-modules.php:4920 main-modules.php:20257
 #: main-modules.php:23209
-msgid ""
-"Turning this on will allow automatic sliding to continue on mouse hover."
+msgid "Turning this on will allow automatic sliding to continue on mouse hover."
 msgstr ""
 "Повертаючи це дозволить автоматичні розсувні продовжувати при наведенні миші."
 
@@ -5750,8 +5730,8 @@ msgstr "Використання Ефекту Паралаксу"
 
 #: main-modules.php:3188 main-modules.php:3728
 msgid ""
-"Enabling this option will give your background images a fixed position as "
-"you scroll."
+"Enabling this option will give your background images a fixed position as you "
+"scroll."
 msgstr "Увімкнення цієї опції зафіксує ваші зображення фону під час прокрутки."
 
 #: main-modules.php:3191 main-modules.php:3731 main-modules.php:20277
@@ -5793,7 +5773,7 @@ msgstr "Новий Слайд"
 
 #: main-modules.php:3567
 msgid "Slide Settings"
-msgstr "Налаштування Слайду"
+msgstr "Налаштування"
 
 #: main-modules.php:3575
 msgid "Image & Video"
@@ -5806,7 +5786,7 @@ msgstr "Пауза"
 #: main-modules.php:3584 main-modules.php:4537 main-modules.php:18397
 #: main-modules.php:22690
 msgid "Navigation"
-msgstr "Навігація"
+msgstr "Навігаційна панель"
 
 #: main-modules.php:3658
 msgid "Slide Description Container"
@@ -5814,7 +5794,7 @@ msgstr "Перемістити опис вмісту"
 
 #: main-modules.php:3680
 msgid "Heading"
-msgstr "Назва"
+msgstr "Заголовок"
 
 #: main-modules.php:3683
 msgid "Define the title text for your slide."
@@ -5833,7 +5813,7 @@ msgstr "Виберіть текст для кнопки слайдера"
 #: main-modules.php:3694 main-modules.php:6778 main-modules.php:7021
 #: main-modules.php:7334
 msgid "Button URL"
-msgstr "URL Кнопки"
+msgstr "Посилання кнопки"
 
 #: main-modules.php:3697
 msgid "Input a destination URL for the slide button."
@@ -5882,7 +5862,7 @@ msgstr ""
 #: main-modules.php:3853 main-modules.php:4840 main-modules.php:19150
 #: main-modules.php:23129
 msgid "Background Overlay Color"
-msgstr "Колір Фонового Оверлею"
+msgstr "Колір нашарування фону"
 
 #: main-modules.php:3857 main-modules.php:4846 main-modules.php:23135
 msgid "Use the color picker to choose a color for the background overlay."
@@ -5977,19 +5957,19 @@ msgstr "Радіус межі накладання тексту"
 
 #: main-modules.php:4441
 msgid "Post Slider"
-msgstr "Слайдер публікацій"
+msgstr "Слайдер записів"
 
 #: main-modules.php:4529 main-modules.php:14245 main-modules.php:16977
 #: main-modules.php:22682
 msgid "Featured Image"
-msgstr "Спеціальне зображення"
+msgstr "Зображення запису"
 
 #: main-modules.php:4576 main-modules.php:9106 main-modules.php:9714
 #: main-modules.php:14217 main-modules.php:16954 main-modules.php:16973
 #: main-modules.php:18059 main-modules.php:20657 main-modules.php:20693
 #: main-modules.php:22017 main-modules.php:22729
 msgid "Meta"
-msgstr "Метадані"
+msgstr "Метаданні"
 
 #: main-modules.php:4645 main-modules.php:9166 main-modules.php:9796
 #: main-modules.php:14278 main-modules.php:20748 main-modules.php:22934
@@ -6012,7 +5992,7 @@ msgstr "Виберіть, які категорії ви хочете додат
 
 #: main-modules.php:4668 main-modules.php:15444 main-modules.php:22957
 msgid "Order By"
-msgstr "Сортувати за"
+msgstr "Порядок сортування"
 
 #: main-modules.php:4672 main-modules.php:22961
 msgid "Date: new to old"
@@ -6032,7 +6012,7 @@ msgstr "Назва: z-a"
 
 #: main-modules.php:4676 main-modules.php:22965
 msgid "Random"
-msgstr "Випадково"
+msgstr "Випадкова"
 
 #: main-modules.php:4679 main-modules.php:22967
 msgid "Here you can adjust the order in which posts are displayed."
@@ -6040,7 +6020,7 @@ msgstr "Тут можна налаштувати порядок, в якому �
 
 #: main-modules.php:4707 main-modules.php:22996
 msgid "Show Read More Button"
-msgstr "Показати кнопку Читати більше"
+msgstr "Показати кнопку Читати далі"
 
 #: main-modules.php:4718 main-modules.php:23007
 msgid "This setting will turn on and off the read more button."
@@ -6130,7 +6110,7 @@ msgstr "Показувати зображення на мобільних при
 #: main-modules.php:5487 main-modules.php:14788 main-modules.php:15141
 #: main-modules.php:23648
 msgid "by %s"
-msgstr " %s"
+msgstr "від %s"
 
 #: main-modules.php:5488 main-modules.php:14798 main-modules.php:15151
 #: main-modules.php:23649
@@ -6139,7 +6119,7 @@ msgstr "%s"
 
 #: main-modules.php:5558
 msgid "Testimonial"
-msgstr "Відгук"
+msgstr "Відгуки"
 
 #: main-modules.php:5607 main-modules.php:5713
 msgid "Quote Icon"
@@ -6163,7 +6143,7 @@ msgstr "Метадані Рекомендації"
 
 #: main-modules.php:5664
 msgid "Author Name"
-msgstr "Ім’я Автора відгуку"
+msgstr "Ім’я Автора"
 
 #: main-modules.php:5667
 msgid "Input the name of the testimonial author."
@@ -6179,7 +6159,7 @@ msgstr "Введіть посаду."
 
 #: main-modules.php:5678
 msgid "Company Name"
-msgstr "Назва Компанії"
+msgstr "Назва компанії"
 
 #: main-modules.php:5681
 msgid "Input the name of the company."
@@ -6207,11 +6187,11 @@ msgstr "URL Портрета"
 
 #: main-modules.php:5717
 msgid "Visible"
-msgstr "Показати"
+msgstr "Видно"
 
 #: main-modules.php:5718
 msgid "Hidden"
-msgstr "Приховати"
+msgstr "Прихований"
 
 #: main-modules.php:5720
 msgid "Choose whether or not the quote icon should be visible."
@@ -6264,7 +6244,7 @@ msgstr "Таблиці з Цінами"
 
 #: main-modules.php:6038 main-modules.php:6551
 msgid "Pricing Table"
-msgstr "Таблиця Тарифів"
+msgstr "Таблиця цін"
 
 #: main-modules.php:6068 main-modules.php:6682
 msgid "Pricing Heading"
@@ -6286,7 +6266,7 @@ msgstr "Верхня Частина Таблиці з Цінами"
 #: main-modules.php:6698 main-modules.php:6771 main-modules.php:15328
 #: main-modules.php:15369
 msgid "Price"
-msgstr "Ціна"
+msgstr "Вартість"
 
 #: main-modules.php:6088 main-modules.php:6702 main-modules.php:6757
 msgid "Currency"
@@ -6302,7 +6282,7 @@ msgstr "Товари"
 
 #: main-modules.php:6100 main-modules.php:6714
 msgid "Pricing Item"
-msgstr "Елемент цін"
+msgstr "Ціна позиції"
 
 #: main-modules.php:6104 main-modules.php:6591 main-modules.php:6718
 msgid "Excluded Item"
@@ -6318,7 +6298,7 @@ msgstr "Активна Таблиця"
 
 #: main-modules.php:6126 main-modules.php:6590
 msgid "Bullet"
-msgstr "Пункт"
+msgstr "Куля"
 
 #: main-modules.php:6164 main-modules.php:6627
 msgid "Subheader"
@@ -6398,7 +6378,7 @@ msgstr "Виберіть назву таблиці тарифів."
 
 #: main-modules.php:6750 main-modules.php:18948
 msgid "Subtitle"
-msgstr "Підпис"
+msgstr "Підзаголовок"
 
 #: main-modules.php:6753
 msgid "Define a sub title for the table if desired."
@@ -6417,8 +6397,7 @@ msgid ""
 "If your pricing is subscription based, input the subscription payment cycle "
 "here."
 msgstr ""
-"Якщо ваші тарифи пов’язані з підпискою, введіть сюди цикл оплати за "
-"підпискою."
+"Якщо ваші тарифи пов’язані з підпискою, введіть сюди цикл оплати за підпискою."
 
 #: main-modules.php:6774
 msgid "Input the value of the product here."
@@ -6487,8 +6466,8 @@ msgid ""
 "Here you can choose whether background color setting above should be used or "
 "not."
 msgstr ""
-"Тут ви можете вибрати, чи слід використовувати налаштування фонового "
-"кольору, зроблені вище."
+"Тут ви можете вибрати, чи слід використовувати налаштування фонового кольору, "
+"зроблені вище."
 
 #: main-modules.php:7337
 msgid "Input the destination URL for your button."
@@ -6570,8 +6549,8 @@ msgstr "Встановити Як Аудіо для Модуля"
 
 #: main-modules.php:7613
 msgid ""
-"Define the audio file for use in the module. To remove an audio file from "
-"the module, simply delete the URL from the settings field."
+"Define the audio file for use in the module. To remove an audio file from the "
+"module, simply delete the URL from the settings field."
 msgstr ""
 "Виберіть аудіофайл для використання в модулі. Щоб видалити аудіофайл з "
 "модуля, просто видаліть URL з поля налаштувань."
@@ -6582,7 +6561,7 @@ msgstr "Виберіть Назву."
 
 #: main-modules.php:7627
 msgid "Artist Name"
-msgstr "Ім’я Виконавця."
+msgstr "Ім'я виконавця"
 
 #: main-modules.php:7630
 msgid "Define an artist name."
@@ -6611,11 +6590,11 @@ msgstr ""
 
 #: main-modules.php:7839
 msgid "Email Optin"
-msgstr "Напишіть Оптин"
+msgstr "E-mail Оптина"
 
 #: main-modules.php:7870
 msgid "Subscribe"
-msgstr "Підписатись"
+msgstr "Підписатися"
 
 #: main-modules.php:7884
 msgid "Email Account"
@@ -6647,7 +6626,7 @@ msgstr "Керувати"
 
 #: main-modules.php:7965
 msgid "Add"
-msgstr "Додати"
+msgstr "Добавити"
 
 #: main-modules.php:7970
 msgid "Remove"
@@ -6702,29 +6681,29 @@ msgid ""
 "Choose a MailChimp list. If you don't see any lists, click \"Add\" to add a "
 "MailChimp account."
 msgstr ""
-"Оберіть список MailChimp. Якщо Ви не бачите жодного списку, натисніть "
-"\"Додати\" й додайте обліковий запис MailChimp."
+"Оберіть список MailChimp. Якщо Ви не бачите жодного списку, натисніть \"Додати"
+"\" й додайте обліковий запис MailChimp."
 
 #: main-modules.php:8055 main-modules.php:8090 main-modules.php:16751
 msgid "Account Name"
-msgstr "Ім'я Облікового Запису"
+msgstr "Назва рахунку"
 
 #: main-modules.php:8058
 msgid ""
 "A name to associate with the account when displayed in the Mailchimp Lists "
 "select field."
 msgstr ""
-"Ім'я, з яким буде пов'язаний обліковий запис, що відображається у полі "
-"вибору списків MailChimp."
+"Ім'я, з яким буде пов'язаний обліковий запис, що відображається у полі вибору "
+"списків MailChimp."
 
 #: main-modules.php:8064 main-modules.php:8099
 msgid "API Key"
-msgstr "API-ключ"
+msgstr "API ключ"
 
 #: main-modules.php:8067
 msgid "Enter your MailChimp API key. You can create an api key %1$s here %2$s"
 msgstr ""
-"Введіть свій API-ключ MailChimp. Ви можете створити api-ключ %1$s тут %2$s."
+"Введіть свій API-ключ MailChimp. Ви можете створити api-ключ %1$s тут %2$s"
 
 #: main-modules.php:8074
 msgid "Aweber List"
@@ -6735,16 +6714,16 @@ msgid ""
 "Choose an AWeber list. If you don't see any lists, click \"Add\" to add an "
 "AWeber account."
 msgstr ""
-"Оберіть список AWeber. Якщо Ви не бачите жодного списку, натисніть \"Додати"
-"\" й додайте обліковий запис AWeber."
+"Оберіть список AWeber. Якщо Ви не бачите жодного списку, натисніть \"Додати\" "
+"й додайте обліковий запис AWeber."
 
 #: main-modules.php:8093
 msgid ""
 "A name to associate with the account when displayed in the Aweber Lists "
 "select field."
 msgstr ""
-"Ім'я, з яким буде пов'язаний обліковий запис, що відображається у полі "
-"вибору списків Aweber."
+"Ім'я, з яким буде пов'язаний обліковий запис, що відображається у полі вибору "
+"списків Aweber."
 
 #: main-modules.php:8102
 msgid ""
@@ -6788,11 +6767,11 @@ msgstr "Увімкнути Колір Кордонів Активного Пол
 
 #: main-modules.php:8214 main-modules.php:8792
 msgid "Focus Border Color"
-msgstr "Колір Кордонів Активного Поля"
+msgstr "Колір рамок фокуса"
 
 #: main-modules.php:8607 main-modules.php:12099
 msgid "Redirect"
-msgstr "Переадресувати"
+msgstr "Перенаправлення"
 
 #: main-modules.php:8661
 msgid "Login Description"
@@ -6820,8 +6799,7 @@ msgstr "Переадресувати На Поточну Сторінку"
 
 #: main-modules.php:8698
 msgid ""
-"Here you can choose whether the user should be redirected to the current "
-"page."
+"Here you can choose whether the user should be redirected to the current page."
 msgstr ""
 "Тут ви можете вибрати, чи переадресовувати користувача на поточну сторінку."
 
@@ -6861,7 +6839,7 @@ msgstr "Виберіть категорії, які ви б хотіли вмі�
 #: main-modules.php:9187 main-modules.php:9818 main-modules.php:16986
 #: main-modules.php:20758 main-modules.php:22035
 msgid "Show Title"
-msgstr "Показати Назву"
+msgstr "Показати Заголовок"
 
 #: main-modules.php:9195 main-modules.php:9826 main-modules.php:20766
 msgid "Turn project titles on or off."
@@ -6889,7 +6867,7 @@ msgstr "Фільтроване Портфоліо"
 
 #: main-modules.php:9706 main-modules.php:16077
 msgid "Filter"
-msgstr "Фільтр"
+msgstr "Фільтрувати"
 
 #: main-modules.php:9733
 msgid "Portfolio Filters"
@@ -6913,7 +6891,7 @@ msgstr "Лічильник Рядків"
 
 #: main-modules.php:10328 main-modules.php:10654 main-modules.php:11166
 msgid "Percent"
-msgstr "Відсоток"
+msgstr "Проценти"
 
 #: main-modules.php:10353 main-modules.php:10630
 msgid "Counter Title"
@@ -6934,7 +6912,7 @@ msgstr "Тут можна змінити колір порожнього міс�
 
 #: main-modules.php:10388 main-modules.php:10667 main-modules.php:11029
 msgid "Bar Background Color"
-msgstr "Колір Фону Прямокутника"
+msgstr "Колір фону панелі"
 
 #: main-modules.php:10391 main-modules.php:11032
 msgid "This will change the fill color for the bar."
@@ -6954,7 +6932,7 @@ msgstr "Нижній Відступ Панелі"
 
 #: main-modules.php:10422 main-modules.php:12864
 msgid "Border Radius"
-msgstr "Радіус Кордонів"
+msgstr "Радіус границі"
 
 #: main-modules.php:10595
 msgid "New Bar Counter"
@@ -6966,7 +6944,7 @@ msgstr "Налаштування Гістограми"
 
 #: main-modules.php:10622 main-modules.php:15816
 msgid "Label"
-msgstr "Ярлик"
+msgstr "Мітка"
 
 #: main-modules.php:10623
 msgid "Percentage"
@@ -6978,11 +6956,11 @@ msgstr "Введіть назву для вашого прямокутника."
 
 #: main-modules.php:10657
 msgid "Define a percentage for this bar."
-msgstr "Виберіть відсоток для"
+msgstr "Визначте відсоток для цього рядка."
 
 #: main-modules.php:10673
 msgid "Label Color"
-msgstr "Колір Ярлика"
+msgstr "Колір лейбла"
 
 #: main-modules.php:10680
 msgid "Percentage Color"
@@ -6990,16 +6968,16 @@ msgstr "Колір Відсотків"
 
 #: main-modules.php:10906
 msgid "Circle Counter"
-msgstr "Круглий Лічильник"
+msgstr "Круговий Лічильник"
 
 #: main-modules.php:10942 main-modules.php:16471
 msgid "Circle"
-msgstr "Круг"
+msgstr "Коло"
 
 #: main-modules.php:10961 main-modules.php:10995 main-modules.php:11204
 #: main-modules.php:11250
 msgid "Number"
-msgstr "Число"
+msgstr "Номер"
 
 #: main-modules.php:10971
 msgid "Percent Container"
@@ -7020,12 +6998,11 @@ msgstr "Введіть назву для круглого лічильника."
 #: main-modules.php:11002
 msgid ""
 "Define a number for the circle counter. (Don't include the percentage sign, "
-"use the option below.). <strong>Note: You can use only natural numbers from "
-"0 to 100</strong>"
+"use the option below.). <strong>Note: You can use only natural numbers from 0 "
+"to 100</strong>"
 msgstr ""
-"Виберіть число для круглого лічильника. (Не вводьте знак відсотка, "
-"застосуйте опцію нижче). Зауважте: ви можете ввести лише натуральні числа "
-"від 0 до 100"
+"Виберіть число для круглого лічильника. (Не вводьте знак відсотка, застосуйте "
+"опцію нижче). Зауважте: ви можете ввести лише натуральні числа від 0 до 100"
 
 #: main-modules.php:11006 main-modules.php:11258
 msgid "Percent Sign"
@@ -7033,8 +7010,8 @@ msgstr "Знак Відсотка"
 
 #: main-modules.php:11014 main-modules.php:11266
 msgid ""
-"Here you can choose whether the percent sign should be added after the "
-"number set above."
+"Here you can choose whether the percent sign should be added after the number "
+"set above."
 msgstr ""
 "Тут ви можете вибрати, чи відображати знак відсотка після числа, визначеного "
 "вище."
@@ -7045,7 +7022,7 @@ msgstr "Непрозорість Кольору Круга"
 
 #: main-modules.php:11142
 msgid "Number Counter"
-msgstr "Числовий Лічильник"
+msgstr "Цифровий лічильник"
 
 #: main-modules.php:11170
 msgid "Number Counter Title"
@@ -7080,7 +7057,7 @@ msgstr "Акордеон"
 #: main-modules.php:11418 main-modules.php:11449 main-modules.php:11683
 #: main-modules.php:11762
 msgid "Toggle"
-msgstr "Згорнутий Блок"
+msgstr "Спойлер"
 
 #: main-modules.php:11453 main-modules.php:11686 main-modules.php:11838
 msgid "Open Toggle"
@@ -7088,7 +7065,7 @@ msgstr "Відкрити Перемикач"
 
 #: main-modules.php:11457 main-modules.php:11691 main-modules.php:11843
 msgid "Toggle Title"
-msgstr "Назва Перемикача"
+msgstr "Заголовок спойлера"
 
 #: main-modules.php:11461 main-modules.php:11695 main-modules.php:11847
 msgid "Toggle Icon"
@@ -7096,7 +7073,7 @@ msgstr "Значок Перемикача"
 
 #: main-modules.php:11465 main-modules.php:11699 main-modules.php:11851
 msgid "Toggle Content"
-msgstr "Зміст Перемикача"
+msgstr "Вміст спойлера"
 
 #: main-modules.php:11474 main-modules.php:11722 main-modules.php:11885
 msgid "Open Toggle Background Color"
@@ -7122,26 +7099,25 @@ msgstr ""
 
 #: main-modules.php:11791 main-modules.php:11867
 msgid "State"
-msgstr "Стан"
+msgstr "Штат"
 
 #: main-modules.php:11871 template-preview.php:94
 msgid "Close"
-msgstr "Згорнутий"
+msgstr "Закрити"
 
 #: main-modules.php:11872
 msgid "Open"
-msgstr "Розгорнутий"
+msgstr "Відкрито"
 
 #: main-modules.php:11875
 msgid ""
 "Choose whether or not this toggle should start in an open or closed state."
 msgstr ""
-"Виберіть, чи відображати блок на початку в згорнутому чи розгорнутому "
-"вигляді."
+"Виберіть, чи відображати блок на початку в згорнутому чи розгорнутому вигляді."
 
 #: main-modules.php:12064
 msgid "Contact Form"
-msgstr "Контактна Форма"
+msgstr "Форма зворотнього зв’язку"
 
 #: main-modules.php:12068 main-modules.php:12592 main-modules.php:12654
 #: main-modules.php:18043
@@ -7162,7 +7138,7 @@ msgstr "Кнопка Контактів"
 
 #: main-modules.php:12162
 msgid "Form Fields"
-msgstr "Поля форми"
+msgstr "Поля Форми"
 
 #: main-modules.php:12166 main-modules.php:18125
 msgid "Message Field"
@@ -7194,10 +7170,10 @@ msgid ""
 msgstr ""
 "Введіть адресу електронної пошти, на яку повинні відправлятися повідомлення. "
 "<br /><br /> Примітка: розсилка електронних листів і запобігання спаму є "
-"складними процесами. Ми рекомендуємо використовувати такі служби доставки, "
-"як <a href=\"%1$s\">Mandrill</a>, <a href=\"%2$s\">SendGrid</a> або іншу "
-"подібну послугу для забезпечення доставки повідомлень, які відправляються "
-"через цю форму"
+"складними процесами. Ми рекомендуємо використовувати такі служби доставки, як "
+"<a href=\"%1$s\">Mandrill</a>, <a href=\"%2$s\">SendGrid</a> або іншу подібну "
+"послугу для забезпечення доставки повідомлень, які відправляються через цю "
+"форму"
 
 #: main-modules.php:12208
 msgid "Define a title for your contact form."
@@ -7241,7 +7217,7 @@ msgstr "Введіть переадресоване URL"
 
 #: main-modules.php:12241
 msgid "Success Message"
-msgstr "Повідомлення про успішне завершення"
+msgstr "Повідомлення успішно надіслано"
 
 #: main-modules.php:12244
 msgid ""
@@ -7325,15 +7301,15 @@ msgstr "Поле вводу"
 
 #: main-modules.php:12706 main-modules.php:18133
 msgid "Email Field"
-msgstr "Поле електронної адреси"
+msgstr "Поле Email"
 
 #: main-modules.php:12707
 msgid "Textarea"
-msgstr "Текстова область"
+msgstr "Текстове поле"
 
 #: main-modules.php:12708
 msgid "Checkbox"
-msgstr "Віконце мітки"
+msgstr "Чекбокс"
 
 #: main-modules.php:12709
 msgid "Radio Buttons"
@@ -7353,7 +7329,7 @@ msgstr "Відмічено за замовчуванням"
 
 #: main-modules.php:12736 main-modules.php:12744
 msgid "Options"
-msgstr "Опції"
+msgstr "Параметри"
 
 #: main-modules.php:12751
 msgid "Minimum Length"
@@ -7409,9 +7385,9 @@ msgid ""
 "the rules below are fulfilled<br><strong>Note:</strong> Only fields with an "
 "unique and non-empty field ID can be used"
 msgstr ""
-"Вмикання умовної логіки робить це поле видимим тільки тоді, коли будь-яке "
-"або всі правила, перелічені нижче, виконуються<br><strong>Note:</strong>. "
-"Можуть використовуватись тільки поля з унікальними та не порожніми ID поля"
+"Вмикання умовної логіки робить це поле видимим тільки тоді, коли будь-яке або "
+"всі правила, перелічені нижче, виконуються<br><strong>Note:</strong>. Можуть "
+"використовуватись тільки поля з унікальними та не порожніми ID поля"
 
 #: main-modules.php:12835
 msgid "Relation"
@@ -7419,11 +7395,11 @@ msgstr "Співвідношення"
 
 #: main-modules.php:12840
 msgid "Any"
-msgstr "Будь-які"
+msgstr "Будь який"
 
 #: main-modules.php:12847
 msgid "Choose whether any or all of the rules should be fulfilled"
-msgstr "Виберіть, певні чи всі правила мають виконуватись?"
+msgstr "Виберіть, чи слід виконувати будь-які або всі правила"
 
 #: main-modules.php:12851
 msgid "Rules"
@@ -7451,7 +7427,7 @@ msgstr "Максимальна довжина: %1$d символів."
 
 #: main-modules.php:13237
 msgid "Sidebar"
-msgstr "Бокова Панель"
+msgstr "Бічна панель"
 
 #: main-modules.php:13295
 msgid "Widget"
@@ -7459,7 +7435,7 @@ msgstr "Віджет"
 
 #: main-modules.php:13308
 msgid "Orientation"
-msgstr "Розташування"
+msgstr "Орієнтація"
 
 #: main-modules.php:13317
 msgid ""
@@ -7471,7 +7447,7 @@ msgstr ""
 
 #: main-modules.php:13320
 msgid "Widget Area"
-msgstr "Зона Віджетів"
+msgstr "Область для віджетів"
 
 #: main-modules.php:13323
 msgid ""
@@ -7487,7 +7463,7 @@ msgstr "Прибрати Роздільник Кордонів"
 
 #: main-modules.php:13495
 msgid "Divider"
-msgstr "Роздільник"
+msgstr "Розділювач"
 
 #: main-modules.php:13514
 msgid "Don't Show Divider"
@@ -7511,7 +7487,7 @@ msgid ""
 "divider height."
 msgstr ""
 "Це налаштування вмикає і вимикає роздільник товщиною 1 піксель, але не "
-"впливає на висоту роздільника"
+"впливає на висоту роздільника."
 
 #: main-modules.php:13588
 msgid "Height"
@@ -7539,7 +7515,7 @@ msgstr "Висота Роздільника"
 
 #: main-modules.php:13626
 msgid "Hide On Mobile"
-msgstr "Приховувати На Мобільних Пристроях"
+msgstr "Сховати на мобільному"
 
 #: main-modules.php:13753
 msgid "Person"
@@ -7567,7 +7543,7 @@ msgstr "Введіть ім’я особи"
 
 #: main-modules.php:13870
 msgid "Position"
-msgstr "Посада"
+msgstr "Позиція"
 
 #: main-modules.php:13873
 msgid "Input the person's position."
@@ -7579,7 +7555,7 @@ msgstr "URL профілю в Facebook"
 
 #: main-modules.php:13918
 msgid "Input Facebook Profile Url."
-msgstr "ВведітьURL Профілю Facebook"
+msgstr "ВведітьURL Профілю Facebook."
 
 #: main-modules.php:13922
 msgid "Twitter Profile Url"
@@ -7611,15 +7587,15 @@ msgstr "Опис"
 
 #: main-modules.php:13957 main-modules.php:15470
 msgid "Icon Hover Color"
-msgstr "Колір Значка при Наведенні"
+msgstr "Колір іконки при наведенні"
 
 #: main-modules.php:14046 main-modules.php:16667
 msgid "Facebook"
-msgstr "Facebook"
+msgstr "Фейсбук"
 
 #: main-modules.php:14054 main-modules.php:16671
 msgid "Twitter"
-msgstr "Twitter"
+msgstr "Твіттер"
 
 #: main-modules.php:14062 main-modules.php:16675
 msgid "Google+"
@@ -7635,7 +7611,7 @@ msgstr "Блог"
 
 #: main-modules.php:14237
 msgid "Post Meta"
-msgstr "Метадані Публікації"
+msgstr "Meta публікації"
 
 #: main-modules.php:14241
 msgid "Pagenavi"
@@ -7667,7 +7643,7 @@ msgstr ""
 
 #: main-modules.php:14318
 msgid "This will turn thumbnails on and off."
-msgstr "Тут можна увімкнути і вимкнути мініатюри"
+msgstr "Тут можна увімкнути і вимкнути мініатюри."
 
 #: main-modules.php:14335
 msgid ""
@@ -7731,7 +7707,7 @@ msgid ""
 "hovers over the featured image of a post."
 msgstr ""
 "Якщо ввімкнено, при наведенні користувача на спеціальне зображення буде "
-"відображатися накладений колір й іконка"
+"відображатися накладений колір й іконка."
 
 #: main-modules.php:14503
 msgid "Grid Tile Background Color"
@@ -7755,11 +7731,11 @@ msgstr "Магазин"
 
 #: main-modules.php:15313
 msgid "Sale Badge"
-msgstr "Значок продаж"
+msgstr "Значок Розпродаж"
 
 #: main-modules.php:15345
 msgid "Product"
-msgstr "Продукція"
+msgstr "Товар"
 
 #: main-modules.php:15349
 msgid "Onsale"
@@ -7767,7 +7743,7 @@ msgstr "Розпродається"
 
 #: main-modules.php:15365
 msgid "Rating"
-msgstr "Рейтинг"
+msgstr "Оцінка"
 
 #: main-modules.php:15373
 msgid "Old Price"
@@ -7775,27 +7751,27 @@ msgstr "Стара ціна"
 
 #: main-modules.php:15386
 msgid "Recent Products"
-msgstr "Останні Товари"
+msgstr "Останні товари"
 
 #: main-modules.php:15387
 msgid "Featured Products"
-msgstr "Популярні Товари"
+msgstr "Обрані товари"
 
 #: main-modules.php:15388
 msgid "Sale Products"
-msgstr "Розпродаж Товарів"
+msgstr "Розпродаж"
 
 #: main-modules.php:15389
 msgid "Best Selling Products"
-msgstr "Бестселери"
+msgstr "Товари що найкраще продаются"
 
 #: main-modules.php:15390
 msgid "Top Rated Products"
-msgstr "Найвище Оцінені Товари"
+msgstr "Товари з найвищим рейтингом"
 
 #: main-modules.php:15391
 msgid "Product Category"
-msgstr "Категорія Продукту"
+msgstr "Категорія товарів"
 
 #: main-modules.php:15393
 msgid "Choose which type of products you would like to display."
@@ -7828,7 +7804,7 @@ msgstr "%1$s Колонки"
 
 #: main-modules.php:15435
 msgid "1 Column"
-msgstr "1 Колонка"
+msgstr "1 Стовпець"
 
 #: main-modules.php:15437
 msgid "Choose how many columns to display."
@@ -7876,7 +7852,7 @@ msgstr "Таймер зворотного відліку"
 
 #: main-modules.php:15802
 msgid "Numbers"
-msgstr "Цифри"
+msgstr "Нумерація"
 
 #: main-modules.php:15845
 msgid "Container"
@@ -7902,12 +7878,11 @@ msgstr "Рахувати Назад До"
 msgid ""
 "This is the date the countdown timer is counting down to. Your countdown "
 "timer is based on your timezone settings in your <a href=\"%1$s\" target="
-"\"_blank\" title=\"WordPress General Settings\">WordPress General Settings</"
-"a>"
+"\"_blank\" title=\"WordPress General Settings\">WordPress General Settings</a>"
 msgstr ""
-"Це дата таймер зворотного відліку. Ваш таймер зворотного відліку базується "
-"на ваші налаштування часового поясу у вашому <a href=\"%1$s\" target=\"_blank"
-"\" title=\"WordPress General Settings\">WordPress General Settings</a>"
+"Це дата таймер зворотного відліку. Ваш таймер зворотного відліку базується на "
+"ваші налаштування часового поясу у вашому <a href=\"%1$s\" target=\"_blank\" "
+"title=\"WordPress General Settings\">WordPress General Settings</a>"
 
 #: main-modules.php:15892
 msgid "Here you can define a custom background color for your countdown timer."
@@ -7925,11 +7900,11 @@ msgstr "Прикріпити"
 
 #: main-modules.php:16076 main-modules.php:20211 main-modules.php:21153
 msgid "Controls"
-msgstr "Контроль"
+msgstr "Елементи управління"
 
 #: main-modules.php:16099 main-modules.php:21175
 msgid "Google API Key"
-msgstr "Ключ Google API"
+msgstr "Google API-ключ"
 
 #: main-modules.php:16107 main-modules.php:21183
 msgid "Add Your API Key"
@@ -7945,8 +7920,8 @@ msgstr ""
 "Модуль мапи використовує Google Maps API  та потребує дійсного ключа Google "
 "API для роботи. Перед використанням модуля мапи, будь ласка, переконайтеся, "
 "що додали свій ключ API до панелі можливостей у темі Divi. Дізнайтеся більше "
-"про створення свого ключа Google API <a href=\"%1$s\" target=\"_blank"
-"\">here</a>."
+"про створення свого ключа Google API <a href=\"%1$s\" target=\"_blank\">here</"
+"a>."
 
 #: main-modules.php:16115 main-modules.php:21191
 msgid "Map Center Address"
@@ -8016,8 +7991,8 @@ msgid ""
 "Here you can define the content that will be placed within the infobox for "
 "the pin."
 msgstr ""
-"Тут ви можете вибрати наповнення, яке буде знаходитися в інформаційному "
-"вікні шпильки."
+"Тут ви можете вибрати наповнення, яке буде знаходитися в інформаційному вікні "
+"шпильки."
 
 #: main-modules.php:16397
 msgid "Social Media Follow"
@@ -8033,15 +8008,15 @@ msgstr "Слідкування за Сторінками в Соціальних
 
 #: main-modules.php:16453 main-modules.php:16645
 msgid "Social Icon"
-msgstr "Значок Соціальної Мережі"
+msgstr "Соціальні іконки"
 
 #: main-modules.php:16457 main-modules.php:16500 main-modules.php:16650
 msgid "Follow Button"
-msgstr "Кнопка Стежити"
+msgstr "Кнопка \"Підписатися\""
 
 #: main-modules.php:16466
 msgid "Link Shape"
-msgstr "Форма Посилання"
+msgstr "Форма посилання"
 
 #: main-modules.php:16470
 msgid "Rounded Rectangle"
@@ -8151,7 +8126,7 @@ msgstr "Тут можна змінити колір іконки."
 
 #: main-modules.php:16865
 msgid "Post Title"
-msgstr "Заголовок Публікації"
+msgstr "Назва запису"
 
 #: main-modules.php:16994 main-modules.php:22043
 msgid "Here you can choose whether or not display the Post Title"
@@ -8190,8 +8165,8 @@ msgstr "Показувати Категорії Публікації"
 
 #: main-modules.php:17058 main-modules.php:22107
 msgid ""
-"Here you can choose whether or not display the Categories in Post Meta. "
-"Note: This option doesn't work with custom post types."
+"Here you can choose whether or not display the Categories in Post Meta. Note: "
+"This option doesn't work with custom post types."
 msgstr ""
 "Тут ви можете вибрати, чи відображати Категорії в Метаданих Публікації. "
 "Примітка: Ця опція не працює з користувацькими типами публікацій."
@@ -8221,7 +8196,7 @@ msgstr "Нижній Заголовок"
 
 #: main-modules.php:17092 main-modules.php:22141
 msgid "Above Title"
-msgstr "Верхній Заголовок"
+msgstr "Над Заголовком"
 
 #: main-modules.php:17093 main-modules.php:22142
 msgid "Title/Meta Background Image"
@@ -8252,15 +8227,15 @@ msgstr ""
 
 #: main-modules.php:17250 main-modules.php:22299
 msgid "Text Background Color"
-msgstr "Фоновий Колір Тексту"
+msgstr "Колір фону тексту"
 
 #: main-modules.php:17375 main-modules.php:22425
 msgid "0 comments"
-msgstr "0 коментарів"
+msgstr "0  коментарів"
 
 #: main-modules.php:17375 main-modules.php:22425
 msgid "1 comment"
-msgstr "1 коментар"
+msgstr "1 Коментарій"
 
 #: main-modules.php:17375 main-modules.php:22425
 msgid "comments"
@@ -8276,7 +8251,7 @@ msgstr "Поле пошуку"
 
 #: main-modules.php:17597
 msgid "Input"
-msgstr "Ввід"
+msgstr "Поле"
 
 #: main-modules.php:17678
 msgid "Exclude Pages"
@@ -8313,11 +8288,11 @@ msgstr "Ввімкнення цього приховає кнопку Пошук
 
 #: main-modules.php:17725
 msgid "Placeholder Text"
-msgstr "Текст заміщення"
+msgstr "Текст заповнювач"
 
 #: main-modules.php:17727
 msgid "Type the text you want to use as placeholder for the search field."
-msgstr "Введіть бажаний текст для заміщення в полі пошуку"
+msgstr "Введіть бажаний текст для заміщення в полі пошуку."
 
 #: main-modules.php:17755
 msgid "Button and Border Color"
@@ -8333,7 +8308,7 @@ msgstr "Колір заповнювача"
 
 #: main-modules.php:18028
 msgid "Comment"
-msgstr "Коментар"
+msgstr "Коментувати"
 
 #: main-modules.php:18076
 msgid "Field border"
@@ -8353,7 +8328,7 @@ msgstr "Мета повідомлення"
 
 #: main-modules.php:18109
 msgid "Comment Content"
-msgstr "Зміст повідомлення"
+msgstr "Вміст коментаря"
 
 #: main-modules.php:18113
 msgid "Comment Avatar"
@@ -8361,7 +8336,7 @@ msgstr "Аватар повідомлення"
 
 #: main-modules.php:18117
 msgid "Reply Button"
-msgstr "Кнопка \"Відповісти\""
+msgstr "Кнопка Відповісти"
 
 #: main-modules.php:18121
 msgid "New Comment Title"
@@ -8369,7 +8344,7 @@ msgstr "Заголовок нового коментаря"
 
 #: main-modules.php:18129
 msgid "Name Field"
-msgstr "Поле для введення імені"
+msgstr "Поле Ім'я"
 
 #: main-modules.php:18137
 msgid "Website Field"
@@ -8377,11 +8352,11 @@ msgstr "Поле для введення веб-сайту"
 
 #: main-modules.php:18141
 msgid "Submit Button"
-msgstr "Кновка \"Відправити\""
+msgstr "Надіслати"
 
 #: main-modules.php:18151
 msgid "Show author avatar"
-msgstr "Показати аватар автора"
+msgstr "Показувати аватар автора"
 
 #: main-modules.php:18161
 msgid "Show reply button"
@@ -8401,7 +8376,7 @@ msgstr "Радіус меж полів"
 
 #: main-modules.php:18369
 msgid "Post Navigation"
-msgstr "Навігація публікації"
+msgstr "Навігація записів"
 
 #: main-modules.php:18405 main-modules.php:18434 main-modules.php:18828
 #: main-modules.php:19559
@@ -8445,9 +8420,9 @@ msgid ""
 "Leave blank if you're using this module on a Project or Post. Otherwise type "
 "the taxonomy name to make the 'In the Same Category' option work correctly"
 msgstr ""
-"Залиште порожнім, якщо ви використовуєте цей модуль в Проекті або "
-"Публікації. В іншому випадку, введіть назву класифікації, щоб параметр 'У "
-"тій самій категорії' працював правильно"
+"Залиште порожнім, якщо ви використовуєте цей модуль в Проекті або Публікації. "
+"В іншому випадку, введіть назву класифікації, щоб параметр 'У тій самій "
+"категорії' працював правильно"
 
 #: main-modules.php:18487
 msgid "Hide Previous Post Link"
@@ -8456,8 +8431,7 @@ msgstr "Сховати посилання Попередня публікаці�
 #: main-modules.php:18498
 msgid "Here you can choose whether to hide or show the previous post link"
 msgstr ""
-"Тут можна вибрати, показувати чи приховувати посилання на попередню "
-"публікацію"
+"Тут можна вибрати, показувати чи приховувати посилання на попередню публікацію"
 
 #: main-modules.php:18501
 msgid "Hide Next Post Link"
@@ -8478,8 +8452,8 @@ msgid ""
 "strong> variable to include the post title. Leave blank for default."
 msgstr ""
 "Визначте спеціальний текст для попереднього посилання. Ви можете використати "
-"змінну <strong>%title</strong>, щоб додати назву публікації. Залиште "
-"порожнім для вибору за замовчуванням."
+"змінну <strong>%title</strong>, щоб додати назву публікації. Залиште порожнім "
+"для вибору за замовчуванням."
 
 #: main-modules.php:18526
 msgid "Next Link Text"
@@ -8487,12 +8461,12 @@ msgstr "Текст наступного посилання"
 
 #: main-modules.php:18533
 msgid ""
-"Define custom text for the next link. You can use the <strong>%title</"
-"strong> variable to include the post title. Leave blank for default."
+"Define custom text for the next link. You can use the <strong>%title</strong> "
+"variable to include the post title. Leave blank for default."
 msgstr ""
 "Визначте спеціальний текст для наступного посилання. Ви можете використати "
-"змінну <strong>%title</strong>, щоб додати назву публікації. Залиште "
-"порожнім для вибору за замовчуванням."
+"змінну <strong>%title</strong>, щоб додати назву публікації. Залиште порожнім "
+"для вибору за замовчуванням."
 
 #: main-modules.php:18640
 msgid "Next Post"
@@ -8500,7 +8474,7 @@ msgstr "Наступне повідомлення"
 
 #: main-modules.php:18664
 msgid "Previous Post"
-msgstr "Попереднє повідомлення"
+msgstr "Попередній запис"
 
 #: main-modules.php:18761
 msgid "Fullwidth Header"
@@ -8528,7 +8502,7 @@ msgstr "Заголовок Контейнер"
 
 #: main-modules.php:18936
 msgid "Header Image"
-msgstr "Зображення заголовка"
+msgstr "Зображення в заголовку"
 
 #: main-modules.php:18940
 msgid "Logo"
@@ -8551,8 +8525,8 @@ msgid ""
 "If you would like to use a subhead, add it here. Your subhead will appear "
 "below your title in a small font."
 msgstr ""
-"Якщо ви бажаєте додати підзаголовок, введіть його сюди. Ваш підзаголовок "
-"буде відображатися маленьким шрифтом знизу від заголовка."
+"Якщо ви бажаєте додати підзаголовок, введіть його сюди. Ваш підзаголовок буде "
+"відображатися маленьким шрифтом знизу від заголовка."
 
 #: main-modules.php:18995
 msgid "Text & Logo Orientation"
@@ -8741,7 +8715,7 @@ msgstr "Поступово зникати"
 
 #: main-modules.php:19741
 msgid "Flip"
-msgstr "Рухатися ривками"
+msgstr "Перевернути"
 
 #: main-modules.php:19747
 msgid "Mobile Menu Background Color"
@@ -8753,11 +8727,11 @@ msgstr "Мобільні Колір Тексту Меню"
 
 #: main-modules.php:19875
 msgid "Home"
-msgstr "Головна"
+msgstr "Головна сторінка"
 
 #: main-modules.php:20052
 msgid "Fullwidth Slider"
-msgstr "Слайдер На Всю Ширину"
+msgstr "Полношірінний слайдер"
 
 #: main-modules.php:20208
 msgid "This setting allows you to turn the navigation arrows on or off."
@@ -8779,8 +8753,8 @@ msgstr "Відключення цієї опції вилучить круглу
 
 #: main-modules.php:20274
 msgid ""
-"If enabled, your background images will have a fixed position as your "
-"scroll, creating a fun parallax-like effect."
+"If enabled, your background images will have a fixed position as your scroll, "
+"creating a fun parallax-like effect."
 msgstr ""
 "При ввімкненні ваше фонове зображення буде мати фіксоване розташування під "
 "час прокрутки, створюючи цікавий ефект паралаксу."
@@ -8799,7 +8773,7 @@ msgstr "Елемент портфоліо"
 
 #: main-modules.php:20685
 msgid "Item Overlay"
-msgstr "Накладання елемента"
+msgstr "Елемент Накладання"
 
 #: main-modules.php:20689
 msgid "Item Title"
@@ -8839,9 +8813,9 @@ msgid ""
 "to slide automatically, without the visitor having to click the next button, "
 "enable this option and then adjust the rotation speed below if desired."
 msgstr ""
-"Якщо вибрана опція макету каруселі і ви хочете, щоб карусель змінювала "
-"слайди автоматично, без того, щоб користувач натискав на наступну кнопку для "
-"зміни, увімкніть цю опцію і налаштуйте необхідну швидкість обертання."
+"Якщо вибрана опція макету каруселі і ви хочете, щоб карусель змінювала слайди "
+"автоматично, без того, щоб користувач натискав на наступну кнопку для зміни, "
+"увімкніть цю опцію і налаштуйте необхідну швидкість обертання."
 
 #: main-modules.php:20808
 msgid "Automatic Carousel Rotation Speed (in ms)"
@@ -8850,8 +8824,8 @@ msgstr "Швидкість Автоматичного Обертання Кар�
 #: main-modules.php:20814
 msgid ""
 "Here you can designate how fast the carousel rotates, if 'Automatic Carousel "
-"Rotation' option is enabled above. The higher the number the longer the "
-"pause between each rotation. (Ex. 1000 = 1 sec)"
+"Rotation' option is enabled above. The higher the number the longer the pause "
+"between each rotation. (Ex. 1000 = 1 sec)"
 msgstr ""
 "Тут ви можете визначити, як швидко обертатиметься карусель, якщо вище "
 "ввімкнена опція \"Автоматичного Обертання Каруселі\". Чим вище число, тим "
@@ -8943,8 +8917,8 @@ msgstr "Показати Внутрішню Тінь"
 
 #: main-structure-elements.php:268
 msgid ""
-"Here you can select whether or not your section has an inner shadow. This "
-"can look great when you have colored backgrounds or background images."
+"Here you can select whether or not your section has an inner shadow. This can "
+"look great when you have colored backgrounds or background images."
 msgstr ""
 "Тут ви можете вибрати, чи матиме ваш розділ внутрішню тінь. Вона може гарно "
 "виглядати, якщо у вас є кольорові фони або  зображення фону."
@@ -8968,17 +8942,17 @@ msgstr "Юніт"
 
 #: main-structure-elements.php:334 main-structure-elements.php:1687
 msgid "px"
-msgstr "пікселі"
+msgstr "px"
 
 #: main-structure-elements.php:351 main-structure-elements.php:367
 #: main-structure-elements.php:1703 main-structure-elements.php:1719
 msgid "Custom Width"
-msgstr "Користувацькі Параметри Ширини"
+msgstr "Власна ширина"
 
 #: main-structure-elements.php:383 main-structure-elements.php:1799
 #: main-structure-elements.php:3205
 msgid "Equalize Column Heights"
-msgstr "Вирівняти Висоту Колонок"
+msgstr "Вирівняти висоту стовпців"
 
 #: main-structure-elements.php:396 main-structure-elements.php:1735
 #: main-structure-elements.php:3173
@@ -9004,8 +8978,8 @@ msgstr "Зробити Цей Рядок на Повну Ширину"
 
 #: main-structure-elements.php:1660
 msgid ""
-"Enable this option to extend the width of this row to the edge of the "
-"browser window."
+"Enable this option to extend the width of this row to the edge of the browser "
+"window."
 msgstr ""
 "Ввімкніть цю опцію, щоб збільшити ширину цього рядка до краю вікна браузера."
 
@@ -9033,7 +9007,7 @@ msgstr "Налаштувати відстань між колонками в ц�
 
 #: main-structure-elements.php:1828 main-structure-elements.php:3234
 msgid "Keep Column Padding on Mobile"
-msgstr "Тримайте колонки оббивка на мобільний"
+msgstr "Зберігати заповнення стовпців на мобільному телефоні"
 
 #: main-structure-elements.php:2367 main-structure-elements.php:3441
 msgid ""
@@ -9049,7 +9023,7 @@ msgstr "Завантаження попереднього перегляду..."
 
 #: template-preview.php:90
 msgid "Link Disabled"
-msgstr "Зв'язок Відключена"
+msgstr "Посилання вимкнено"
 
 #: template-preview.php:91
 msgid "During preview, link to different page is disabled"
@@ -9064,12 +9038,12 @@ msgstr "Очистити"
 #: class-et-builder-settings.php:531
 msgctxt "Divi Builder"
 msgid "Builder"
-msgstr "Конструктор"
+msgstr "Редактор"
 
 #: class-et-builder-settings.php:696
 msgctxt "Design Settings"
 msgid "Advanced"
-msgstr "Більше"
+msgstr "Для досвідчених"
 
 #: class-et-builder-settings.php:701
 msgctxt "Design Settings"
@@ -9084,7 +9058,7 @@ msgstr "Контент"
 #: class-et-builder-settings.php:736
 msgctxt "Page, Post, Product, etc."
 msgid "%s Settings"
-msgstr "%s Налаштування"
+msgstr "%s налаштування"
 
 #: core.php:34
 msgctxt "Layout type general name"
@@ -9094,105 +9068,33 @@ msgstr "Макети"
 #: core.php:35
 msgctxt "Layout type singular name"
 msgid "Layout"
-msgstr "Макет"
+msgstr "Шаблон"
 
 #: core.php:36
 msgctxt "Layout item"
 msgid "Add New"
-msgstr "Додати новий"
+msgstr "Додати нову"
 
 #: frontend-builder/helpers.php:56
 msgctxt "et_builder"
 msgid "Submit Comment"
-msgstr "Опублікувати коментар"
+msgstr "Відправити коментар"
 
 #: frontend-builder/helpers.php:665 main-modules.php:7763
 msgctxt "Audio Module meta information"
 msgid "by <strong>%1$s</strong>"
-msgstr " <strong>%1$s</strong>"
+msgstr "за <strong>%1$s</strong>"
 
 #: main-modules.php:5155 main-modules.php:5490 main-modules.php:14818
 #: main-modules.php:15171 main-modules.php:22867 main-modules.php:23651
 msgctxt "number of comments"
 msgid "%s Comment"
 msgid_plural "%s Comments"
-msgstr[0] ""
-msgstr[1] ""
-msgstr[2] ""
+msgstr[0] "%s коментар"
+msgstr[1] "%s коментарі"
+msgstr[2] "%s коментарів"
 
 #: main-modules.php:12500
 msgctxt "contact form title separator"
 msgid " - %s"
 msgstr " - %s"
-
-#~ msgid "by <strong>%1$s</strong>"
-#~ msgstr " <strong>%1$s</strong>"
-
-#~ msgid " - %s"
-#~ msgstr " - %s"
-
-#~ msgid "﻿Once Monthly"
-#~ msgstr "Один раз на місяць"
-
-#~ msgid "Ads"
-#~ msgstr "Оголошення"
-
-#~ msgid "Colorization"
-#~ msgstr "Колоризація"
-
-#~ msgid "Integration"
-#~ msgstr "Інтеграція"
-
-#~ msgid "SEO"
-#~ msgstr "SEO"
-
-#~ msgid "Support"
-#~ msgstr "Підтримка"
-
-#~ msgid "Updates"
-#~ msgstr "Оновлення"
-
-#~ msgid "Please Select"
-#~ msgstr "Будь ласка, виберіть."
-
-#~ msgid ""
-#~ "Click the highlighted green check mark button to accept your changes."
-#~ msgstr ""
-#~ "Клацніть на підсвічену кнопку з зеленою галочкою щоб прийняти ваші зміни."
-
-#~ msgid ""
-#~ "While editing your page, it’s easy to see what your design will look like "
-#~ "on mobile devices. You can also make adjustments to your module, row and "
-#~ "section settings for each mobile breakpoint. Click the highlighted "
-#~ "“Tablet” icon to enter Tablet preview mode."
-#~ msgstr ""
-#~ "Редагуючи сторінку, ви можете â€™ легко побачити, як ваш дизайн "
-#~ "виглядатиме на мобільних пристроях. Ви так само можете редагувати "
-#~ "налаштування ваших модуля, ряда та секції для кожного мобільного "
-#~ "пристрою.  Клацніть на підсвіченій кнопці â€œПланшетâ€ щоб відкрити режим "
-#~ "перегляду для планшета."
-
-#~ msgid ""
-#~ "Every change you make while editing your page is saved in your editing "
-#~ "history. You can navigate backwards and forwards through time to any "
-#~ "point during your current editing session, as well as undo and redo "
-#~ "recent changes. Click the highlighted History button to access your "
-#~ "editing history."
-#~ msgstr ""
-#~ "Кожна зміна, яку ви робите під час редагування сторінки, зберігається в "
-#~ "історії редагування. Ви можете проходити назад і вперед у часі до будь-"
-#~ "якої точки вашої поточної сесії редагування, так само, як і відміняти та "
-#~ "робити знову останні зміни. Клацніть на підсвічену кнопку Історія, щоб "
-#~ "отримати доступ до вашої історії редагувань."
-
-#~ msgid "Minimum length: %1$d characters."
-#~ msgstr "Мінімальна довжина: %1$d символів."
-
-#~ msgid "Builder"
-#~ msgstr "Конструктор"
-
-#~ msgid "%s Comment"
-#~ msgstr "%s коментар"
-
-#~ msgid "%s Comments"
-#~ msgstr "%s коментарі"
